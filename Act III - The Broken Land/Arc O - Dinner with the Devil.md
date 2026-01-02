@@ -1295,6 +1295,19 @@ If the players haven’t previously encountered Strahd, add:
 
 The voice is recognizable as Strahd’s, but more full of emotion and life.
 #### Chamberlain’s Office
+
+---
+
+	This shadowy room is in perfect order. A great table stands here with its chair, inkwell, and quill set carefully in place. Lances, swords, and shields that bear the Barovian crest are hung neatly on the dark, oak-paneled walls.
+
+If he has not been defeated elsewhere, [Rahadin](https://www.dndbeyond.com/monsters/17370-rahadin) (see [appendix D](https://www.dndbeyond.com/sources/cos/appendix-d-monsters-and-npcs#Rahadin "appendix D")) is here, waiting for the characters to arrive so he can kill them.
+
+A [shadow demon](https://www.dndbeyond.com/monsters/17131-shadow-demon) also haunts this room. In the round after the characters engage Rahadin, the demon leaps out and attacks the nearest character from behind. The character doesn’t notice the demon, unless the character’s passive Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) score meets or exceeds the demon’s Dexterity ([Stealth](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check. Both Rahadin and the shadow demon fight until slain.
+
+A secret door is set into the north end of the west wall. It can be pulled open to reveal a dusty, web-choked staircase of ancient, worn stone (area K79) that descends into darkness.
+
+---
+
 Rahadin’s office is largely as described in <span class="citation">K72. Chamberlain’s Office (p. 79)</span>, except Rahadin and the **shadow demon** are not present, and players who uncover the secret door find that it has been bricked up.
 
 In addition, an ornate golden key that matches the pattern of the guest room keyhole lies upon the table. The key unlocks the locked door to the lounge in [[#O8a. The First Level]].
@@ -1359,6 +1372,12 @@ If the players succeed on this check, Varushka tearfully relinquishes her supern
 If the players offer Varushka the necklace, she thanks them but declines to keep it. Mournfully, she asks the players to find Katarina if she still lives, or find her grave, asking them to "Keep it in her memory."
 ### Varushka’s Rage
 <br>
+TURN 1
+Bonus Action: Horrific Visage
+Action: Animate Major Object
+TURN 2+
+Action: Warp Flesh AND (Warp Flesh OR Animate Minor Object)
+Bonus Action: Stonemelt OR Papercut
 
 <div class="statblock">
 <h2>Varushka, Nightmare Maid</h2>
@@ -1509,6 +1528,8 @@ If the players offer Varushka the necklace, she thanks them but declines to keep
 </div>
 
 <br>
+TURN 1
+
 
 <div class="statblock">
 <h2>Varushka, Soul of Despair</h2>

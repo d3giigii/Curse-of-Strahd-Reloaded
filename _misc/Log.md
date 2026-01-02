@@ -431,7 +431,7 @@ Resuming 14 Neyavr, night
 Resuming 14 Neyavr, night
 
 * Resuming immediately after combat on floor 2 of Varushka's Nightmare (VN). 
-* The party made to ascend through the trapdoor in the Guest Room Closet. Ismark bid them farwell and good luck, noting he would seek Lugdana elsewhere.
+* The party made to ascend through the trapdoor in the Guest Room Closet. Ismark bid them farewell and good luck, noting he would seek Lugdana elsewhere.
 * The party discovered Pidlwick II under the bed in the Guest Room on floor 3 of VN. The hook which controls the opening mechanism of the trapdoor was missing. The party asked Pidlwick for help, but after he was unable to assist well, Igor threatened him. Pidlwick led Igor to the stairwell and pushed him down before vanishing. The party found the hook hidden inside the clock in the Guest Room and ascended to the next floor. 
 * The party found the closet walled off in the Guest Room. Fel broke the windows in the Lounge and saw the closet across the rooftop. Using their abilities to fly, Fel and Igor made it to the far end of the rooftop without issue before a rumbling was heard from inside the castle nearby. 
 * A large black dragon with similar features to that of Rahadin made the remainder of the parties escape difficult, but everyone was ultimately able to cross the rooftop before more of the acid-turned-chains from the dragon immobilized some completely. 
@@ -439,5 +439,66 @@ Resuming 14 Neyavr, night
 * Varushka told you ten days prior she had seen King von Zarovich speak with "a great darkness" in his chambers, and later the skies grew red, the mists descended on the valley, and Zarovich had "become a monster". She also mentioned Rahadin keeps the key to the Guest Suite in his office in the cellars. 
 * Moving from the bedroom to the closet near Varushka led you to a room in a lower level of the castle, the sky outside delivering blood-red light through the windows and a screams heard from a staircase descending deeper into the castle. Here you found Varushka again, hiding under a table, and imploring you to hide or flee as Strahd searches for Captain Dilisnya, whom she saw abscond by means she cant explain. 
 * Moving down toward the source of the noise you found yourselves in the castle larders, the door at the far end of the hall ajar. Entering the hall you heard a familiar voice cursing Dilisnya from beyond another door to the north. 
-* Moving past the door in the north end of the hall you saw Strahd ending the life of one of his former men-at-arms. You attempted to converse with the blood-raged Strahd for a short time, but combat was nigh-inevitable. 
+* Moving past the door in the north end of the hall you saw Strahd ending the life of one of his former men-at-arms. You attempted to converse with the blood-raged Strahd for a short time, but combat seemed nigh-inevitable. 
 * You defeated this apparent younger version of Strahd before he turned to mist and escaped through a crack in the wall. 
+
+# 23 NOV 2025
+Resuming 14 Neyavr, night
+
+* Resuming immediately after combat with Strahd in the larders
+* Found key that unlocks first door seen in the nightmare
+* Tried to explore the larders and high tower stair for a bit, could not make much progress. 
+* Leaving through the door you came put you back near the first door seen in the nightmare. 
+* Could not use key to exit, met by Varushka's spirit in the lounge. You saw shadowy manifestations whispering to her causing her grief and managed to avoid combat with the spirit. Leaving through the door you awoke as if nothing had happened the next morning (15 Neyavr) around 6am.  
+* Found a shadow who appeared similar to varushka along the wall and followed her through the trapdoor in the closet to the floor above which seemed to host spellcasters. Found a satchel with two potions of healing and a potion of fire breathing. 
+* Continued following the spirit up the tower until it showed a broken brick in the wall of the spires Offstair which contained a letter, a pouch contianing a diamond ring and gold band (150 gp), and a Tarokka card (seer). 
+* Fel and Thonk continued up the offstair to the tower roof and along the bridge. They saw inside the high tower, floating, was a large crystal heart pulsing with red light, and a sliver of darkness deep within. 
+* The tower and bridge shook knocking Fel off balance who started to fall off the bridge before he was caught by Strahd. Fel and Thonk convinced Strahd to not punish them and they quickly returned to the Guest Suite with Igor. The party then waited for Rahadin to retrieve them about an hour later. 
+  * The party departed Castle Ravenloft without further issue, and were dropped off where they entered the Black Carriage, at the Western Gate of Barovia. 
+# 28 NOV 2025
+Resuming 15 Neyavr, morning
+
+* Impromptu planning session
+* Discussed goals and plan of entry into Castle Ravenloft. 
+* Knowns
+	* Strahd gone from 5pm to 5am
+	* Plan to enter
+		* Fly in
+		* Grapple over walls
+
+# 30 NOV 2025
+Resuming 15 Neyavr, morning. 
+
+* Picked up after impromptu planning session. 
+* Spent the day preparing to heist Castle Ravenloft. 
+	* Visited Victor Vallakovich in Vallaki. He cast darkvision on those in the party who need it. You found his copy of the spell Teleportation Circle, and the circle he attempted to create in his study, very incorrect. 
+	* Visited Kasimir at the vistani camp outside Vallaki. You spoke to him regarding Rahadin and the Amber Temple, but you could tell he was not telling the whole story. Prodding him was met with anger. 
+* Set up a Tiny Hut within half a mile of the castle nearby the road. It was very well hidden. 
+* Party waited for Strahd to depart around 5pm. Immediately moved to enter afterwards. 
+* Used Box of Holding and a helpful agent of the Keepers to transport the party over the chasm surrounding the castle. The party moved to the west side of the castle walls where Fel climbed the castle walls and set a rope for the remainder of the party to climb up. 
+* The party snuck around the castle walls avoiding detection from the wights that patrol them. 
+* Party tied a rope and climbed down to enter the castle courtyard near the Servants Entrance. Did not hide the rope used to climb down. 
+* Party infiltrated the castle and immediately went down to the larders. They found Cyrus who was willing to remain ambivalent to their entry. Cyrus also asked if they could retrieve his "favorite cooking spoon" in exchange for a map of the castle. 
+* Party entered the Hall of Bones where they found Argynvosts skull and four bone piles. The party destroyed one bone pile. 
+* Paused before rolling initiative. 
+
+# 7 DEC 2025
+Resuming 15 Neyavr, night
+
+* Resumed and started combat in the Hall of Bones. 
+* Dealt with the bone piles and skeletons swiftly. 
+* Able to get Argynvosts Skull into the Box of Holding. 
+* Went south from the Hall of Bones to the Guards' Quarters. Found a plethora of normal and fetid zombies seemingly parked. Most did not respond until attacked so the party was able to dispatch them easily after clearing the first "wave". 
+* Moved to the southern hallway in the larders and discovered some form of trap in the hallway. 
+* Went down the South Tower Stair (K21) towards the Dungeons and Catacombs. 
+* Party stopped before entering the water that floods the hallway in front of them. They hear the voice of a man pleading for help coming from the south. The party used a limb from upstairs and discovered some kind of trap present underwater in the hallway. 
+
+# 21 DEC 2025
+Resuming 15 Neyavr, night
+
+* Resumed traversing the flooded hallway in Castle Ravenlofts Dungeon. 
+* Fought and killed Volenta in the Torture Chamber. 
+* Rescued Emil Toranescu and Anton. Found the Lost Mace 
+* Made their way into the Brazier Room. Performed reconnaissance using a familiar. 
+	* Sent Emil to Krezk. Sent Anton to Vallaki. 
+	* Berez: Found a statue of a peasant girl with an uncanny resemblance to Ireena. 

@@ -12,11 +12,11 @@ Act III Milestones Completed:
 * free Ilya and Zuleika from the den (250 XP)
 * receive Argynvost’s mission at Argynvostholt (2500 XP)
 
-| Level | XP    | Act |
-| ----- | ----- | --- |
-| 1     | 0     | 1   |
-| 2     | 300   | 1   |
-| 3     | 900   | 1   |
+| Level |  XP   | Act |
+| ----- | :---: | --- |
+| 1     |   0   | 1   |
+| 2     |  300  | 1   |
+| 3     |  900  | 1   |
 | 4     | 2700  | 1   |
 | 5     | 6500  | 2   |
 | 6     | 14000 | 3   |
@@ -24,11 +24,13 @@ Act III Milestones Completed:
 | 8     | 34000 | 3   |
 | 9     | 48000 | 4   |
 | 10    | 64000 | 4   |
+
 # Stats
 
-| **Name** | HP  | AC  | P. Perception | P. Investigation | P. Insight | Shard Stage |
-| -------- | --- | --- | ------------- | ---------------- | ---------- | ----------- |
-| Fel      | 58  | 19  | 14            | 14               | 13         | 0           |
-| Igor     | 63  | 19  | 16            | 11               | 16         | 0           |
-| Thonk    | 64  | 20  | 9             | 9                | 9          | 0           |
-| Ireena   |     |     | 15            | 14               | 18         |             |
+| Name      | HP  | AC  | P. Perception | P. Investigation | P. Insight | Shard Stage |
+| --------- | --- | --- | ------------- | ---------------- | ---------- | ----------- |
+| Fel       | 58  | 19  | 14            | 14               | 13         | 0           |
+| Igor      | 63  | 19  | 16            | 11               | 16         | 0           |
+| Thonk     | 64  | 20  | 9             | 9                | 9          | 0           |
+| Ezmerelda |     |     |               |                  |            |             |
+| Ireena    |     |     | 15            | 14               | 18         |             |

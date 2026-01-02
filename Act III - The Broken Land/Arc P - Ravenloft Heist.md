@@ -808,6 +808,14 @@ This area is largely as described in <span class="citation">K36. (p. 65)</span>.
 ### Study
 <span class="citation"><em>This scene takes place in Chapter 4, Area K37.</em></span>
 
+---
+
+	A blazing hearth fire fills this room with rolling waves of red and amber light. The walls are lined with ancient books and tomes, their leather covers well oiled and preserved through careful use. All is in order here. The stone floor is concealed beneath a thick, luxurious rug. In the center of the room is a large, low table, waxed and polished to a mirrored finish. Even the poker in its stand next to the blazing fireplace is polished. Large, overstuffed divans and couches are arranged about the room. Two chairs of burgundy-colored wood with padded leather seats and back cushions face the hearth. 
+	
+	A huge painting hangs over the mantelpiece in a heavy, gilded frame. The rolling firelight illuminates the carefully rendered portrait. It is an exact likeness of Ireena Kolyana.
+
+---
+
 This area is largely as described in <span class="citation">K37. Study (p. 66)</span>. However, the doors leading to <span class="citation">K36. Dining Hall of the Count (p. 65)</span>, <span class="citation">K45. Hall of Heroes (p. 68)</span>, and <span class="citation">K83. Spiral Stair (p. 85)</span> are locked as described in <span class="citation">The Lands of Barovia: Common Features (p. 33)</span>.
 
 In addition, a player who inspects the portrait of Tatyana notices that she is wearing a silver bracelet carved with an intricate pattern of the moon and stars, with a moonstone gem embedded at the center of the moon and multiple lapis-lazuli serving as the stars. A player who has previously seen Ireena’s bracelet in [[Act I - Into the Mists/Arc B - Welcome to Barovia#B5j. Lugdana's Knoll|Arc B - Welcome to Barovia]] recognizes it as the same bracelet.
@@ -821,11 +829,31 @@ If present, Ireena is disturbed at the sight of the portrait and its clear resem
 ### Bath Chamber & Closet
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K43 & K44.</em></span>
 
+---
+	
+	K43 Bath Chamber
+	Red satin curtains hang in archways at both ends of the south wall in this dark room. Between them, in the center of the chamber, stands a large, ornate iron tub with clawed feet. The exterior of 
+	
+	K44 Closet
+	The walls here are lined with iron hooks, upon a few of them hang black capes and formal wear. Two arched windows in the south wall are covered by heavy curtains.
+
+---
+
 This area is largely as described in <span class="citation">K43. Bath Chamber (p. 68)</span> and <span class="citation">K44. Closet (p. 68)</span>. However, while the tub is stained with ancient blood, it does not currently contain any blood, and Varushka’s spirit doesn’t haunt it.
 
 In addition, the closet contains only three capes, rather than twenty-eight.
 ### King’s Bedchamber
 <span class="citation"><em>This scene takes place in Chapter 4, Area K42.</em></span>
+
+---
+
+	Sweet smells waft from this delicately lit room. A great arched window along the west wall is covered by heavy red draperies, their golden tassels glinting in the light of three candelabras sitting atop small tables about the room. Tall white candles burn with bright, steady light.
+	
+	A large bed, canopied by silk curtains, sits with its headboard against the north wall. Carved into the headboard with great skill is a large “Z.” Lying amid the velvet and satin sheets and bedclothes is a young woman in a nightgown. One of her slippers has fallen to the floor at the bed’s foot.
+
+	The woman meets your eyes with a look of surprise that turns melancholy as she says "another one of the Devil’s tricks"
+
+---
 
 This area is largely as described in <span class="citation">K42. King’s Bedchamber (p. 68)</span>. However, remove the word “dainty" from the description of Gertruda’s slipper in this area’s description.
 
@@ -912,7 +940,6 @@ The two wights in the secret passage emerge on their first turns in combat, atta
 > * **Six Players**. Increase the number of visible wights to three.
 
 In her first phase, Anastrasya attempts to keep her distance from the players while attacking with her ***flying sword***, retreating toward [[#Hall of Heroes]] and the [[#King’s Landing]] if approached. If forced into her second phase, Anastrasya is enraged by the reveal of her true, grotesque form, and attacks the characters responsible with a vengeance. (While in her second form, Anastrasya prefers to grapple her prey using her ***unarmed strike***, then fly her chosen victim into the open air beside [[#King’s Landing]] before feeding upon them in midair with her ***bite***. If she reduces a character to 0 hit points in this way, she tosses their unconscious body onto [[#King’s Landing]] to feed on later.)
-
 As with Ludmilla, Anastrasya fights to the death, unwilling to face Strahd’s wrath should she fail.
 
 <div class="statblock">
@@ -1905,12 +1932,41 @@ This **shadow**, which understands Common but can’t speak it, is the remnant o
 
 This area is as described in <span class="citation">K81. Tunnel (p. 84)</span> and <span class="citation">K82. Marble Slide (p. 85)</span>.
 
+---
+	K80: Center Stair
+	The door creaks open to reveal a stone staircase between rough masonry walls. There is little dust on the steps, but light fog tumbles down the steps from above.
+
+The stairs slope at a 45-degree angle for a distance of 20 feet horizontally, connecting [areas K78](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K78BrazierRoom "areas K78") and K81.
+
+	K81: Tunnel
+	This tunnel is cut into the Pillarstone of Ravenloft itself. Its surface is slick, and its ceiling is barely 6 feet high. A lingering fog limits visibility to a few feet.
+
+Characters who have knowledge of stonecutting can tell that this passage is a relatively new construction compared to other areas of Ravenloft. The tunnel is 120 feet long, with a stone door at its eastern end.
+
+Near the midpoint of the tunnel is a trapdoor hidden under a layer of fog. Characters can’t spot the trapdoor passively, but an active search accompanied by a successful DC 20 Wisdom ([Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check locates it. Unless the trapdoor is fastened shut with an iron spike or by some other means, it opens when 100 pounds of weight or more is placed on it. When the trapdoor opens, everyone who is standing on it slides into the marble chute below ([area K82](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K82MarbleSlide "area K82")). The trapdoor then resets.
+
+	K82: Marble Slide
+	You fall into a chute of polished black marble and slide into the darkness.
+
+The chute plunges from the trapdoor in [area K81](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K81Tunnel "area K81") through a one-way secret door into a flooded cell ([area K74e](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K74eEndoftheRide "area K74e")). Characters who slide all the way to the bottom are deposited in the cell, but take no damage. The slide contains no handholds and is too slippery to ascend without the aid of magic.
+
+---
+
 > [!info]+ **Exiting the Tunnel**
 > A player who exits the eastern end of the tunnel exits the dungeons and enters [[#P12. Catacombs]] via [[#North Crypts, First Row]].
 # P12. Catacombs
 <span class="citation"><em>This scene takes place in Chapter 4, Area K84.</em></span>
 
 This area is largely as described in <span class="citation">K84. Catacombs (p. 85)</span>, except where denoted otherwise below.
+
+---
+
+	K84: Catacombs
+	Buried deep beneath the keep of Ravenloft lie ancient catacombs, with arched ceilings supported by wide, hollow columns that double as crypts. Cobwebs hang limp in the musty air. A thick fog clings to the floor, which is covered in putrid waste. The black ceiling is moving.
+
+The catacombs fill an area roughly 110 feet east to west by 180 feet north to south, and the floor is covered in several inches of bat guano. The catacombs are made up of 10-foot-wide arched walkways running between 10-foot-square crypts, which serve as pillars that support the 20-foot-high ceiling.
+
+---
 
 > [!abstract]+ **Rahadin's Challenge**
 > This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, Rahadin obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
@@ -1927,13 +1983,86 @@ This area is largely as described in <span class="citation">K84. Catacombs (p. 8
 >
 > See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
 ## P12a. North Catacombs
+
 ### North Crypts
 #### North Crypts, First Row
 This row of crypts is largely as described in <span class="citation">Crypt 1 (p. 86)</span>, <span class="citation">Crypt 2 (p. 86)</span>, <span class="citation">Crypt 3 (p. 86)</span>, <span class="citation">Crypt 4 (p. 86)</span>, <span class="citation">Crypt 5 (p. 86)</span>, and <span class="citation">Crypt 6 (p. 86)</span>. However, replace the epigraph and contents of Crypt 6 with the epigraph and contents of <span class="citation">Crypt 40 (p. 93)</span>, and remove the trap surrounding Crypt 6.
 
+---
+
+Crypt 1
+	*Herein lie the ones who walk the path of pain and torment*
+	The stone door connects not with a crypt, but with a hewn tunnel of stone (area K81).
+Crypt 2
+	*Artista DeSlop—Court Ceiling Painter*
+	**The domed ceiling of this crypt is painted with an image of imps holding bouquets of colorful flowers. A skeleton draped in rags lies atop a marble slab in the center of the crypt. A wooden box is tucked under one bony hand.**
+	
+	The box is unlocked. It contains seven wood-handled paintbrushes and seven small gourds of dried-up paint.
+Crypt 3
+	Crypt 3
+	*Lady Isolde Yunk (Isolde the Incredible): Purveyor of antiques and imports*
+	**A skeleton draped in rags lies atop a marble slab in the center of the crypt. Piled all around it, covering the floor, are heaps of old baskets, braziers, bundled tapestries, candlesticks, chairs, chests, cooking utensils, cressets, curtain rods, decanters, dishes, jugs, lamps, scroll cases, tankards, and tinderboxes. None of the junk looks valuable. An old chandelier hangs from the domed ceiling.**
+	
+	Characters could spend hours searching the crypt. Though the antiques here might fetch a fair amount of coin, they are hardly worth the trouble to transport.
+Crypt 4
+*Prince Ariel du Plumette (Ariel the Heavy)*
+If the characters open the door to this crypt, read:
+	**The apparition of a large, rotund man forms within the dark crypt, its eyes wild with insanity. Large, artificial wings unfold from its back.**
+	
+	Prince Ariel was a terrible man who longed to fly. He attached artificial wings to a harness and empowered the device with magic, but the apparatus still couldn’t bear his weight, and he plunged from the Pillarstone of Ravenloft to his death. His evil ghost attacks the characters on sight. If Ariel succeeds in possessing a character, his host climbs the high tower (area K18) until it reaches the peak (area K59), then hurls itself down the tower’s central shaft (area K18a), screaming, “I can fly!” the whole way down.
+Crypt 5
+	*Artank Swilovich: Friend and member of the Barovian Wine Distillers Guild*
+	**You are greeted by the faint smell of wine. A skeleton draped in rags lies atop a marble slab in the center of the crypt. Heaped around it, covering the entire floor, are thousands of empty wine bottles.**
+	
+	Each bottle’s label shows that it is from the Wizard of Wines winery, and the label names the wine inside: Champagne du le Stomp, Red Dragon Crush, or Purple Grapemash No. 3.
+Crypt 6
+	*Tatsaul Eris—Last of the Line*
+	**A skeleton draped in rags lies atop a marble slab in the center of the crypt. Mounted on the north, east, and south walls are three unlit torches in iron brackets.**
+	
+	When a creature enters this tomb for the first time, the torches burst into flame and continue to burn until they are spent or extinguished.
+	Examination of the skull and bones reveals that they are plaster facsimiles.
+
+---
+
 Players who exit <span class="citation">K81. Tunnel (p. 84)</span> via Crypt 1, or who approach the intersection between Crypts 2, 7, and 8 observe a human corpse lying on the stone floor just south of <span class="citation">Crypt 2 (p. 87)</span>. (The corpse is a **zombie. See below for more information.**)
 #### North Crypts, Second Row
 This row of crypts is largely as described in <span class="citation">Crypt 7 (p. 87)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, and <span class="citation">Crypt 11 (p. 87)</span>. However, Tasha Petrovna’s holy symbol in <span class="citation">Crypt 11 (p. 87)</span> is not present; instead, it is currently worn by Father Lucian in Vallaki.
+
+---
+
+Crypt 7
+	**The stone door of this crypt lies on the floor, its inscription obscured by fog. The crypt gapes open. A skull, some bones, and a few bits of rusted armor lie atop a marble slab with a leering stone gargoyle squatting at each end.**
+	
+	The epitaph on the door reads “*Endorovich (Endorovich the Terrible): What the blood of a hundred wars did not do, the spurn of a woman accomplished*.”
+	
+	Endorovich was a ruthless soldier and self-aggrandizing noble who loved a woman named Marya, but she loved another man. As Marya and her lover were dining, Endorovich put poison into the man’s wineglass. The glasses were mixed up, and Marya drank the poison instead. The lover was hanged for murdering Marya and buried at the Ivlis River crossroads (chapter 2, area F). Endorovich never got over his guilt and, out of madness, killed many in his lifetime.
+	
+	Endorovich’s spirit is trapped inside one of the gargoyles. If anyone disturbs the bones on the slab, one of the gargoyles awakens and attacks. If the gargoyle is reduced to 0 hit points, Endorovich’s spirit moves to the second gargoyle, which then awakens and attacks. Both gargoyles have maximum hit points (77). Once the second gargoyle is destroyed, Endorovich’s spirit is laid to rest.
+Crypt 8
+	*Duchess Dorfniya Dilisnya*
+	**A skeleton draped in rags lies atop a marble slab in the center of the crypt. Hanging on the back wall is a handsome quilt that depicts a royal feast.**
+	
+	The quilt is magically preserved but not valuable.
+Crypt 9
+	*Pidlwick—Fool of Dorfniya*
+	**A small skeleton wearing the remains of a fool’s costume lies atop a stumpy marble slab in the center of the crypt.**
+	
+	If Pidlwick II (see area K59) is with the party, it refuses to enter the crypt. The slab in this crypt is 4 feet long (instead of the usual 6 feet long). The bones atop the slab belong to the fool servant of Duchess Dorfniya Dilisnya (see crypt 8).
+	Treasure. If the characters explore this crypt after summoning the ghost of Pidlwick in area K36, they find a small, flat wooden box on the marble slab next to Pidlwick’s bones. The box contains a full *deck of illusions*.
+Crypt 10
+	*Sir Leonid Krushkin (Sir Lee the Crusher): Bigger than life, he loved his jewelry*
+	**An oversized skeleton draped in jewelry and rags lies atop an elongated marble slab in the center of the crypt. Leaning against the slab is a bloodstained maul strung with cobwebs.**
+	
+	Sir Lee stood well over seven feet tall. His maul might give the characters pause, but it is harmless and nonmagical.
+	
+	Treasure. Three jeweled necklaces (worth 750 gp each) are lying across Sir Lee’s skeleton.
+Crypt 11
+	*Tasha Petrovna—Healer of Kings, Light unto the West, Servant, Companion*
+	**A skeleton wearing tattered priestly vestments lies atop a marble slab in the center of the crypt. The domed ceiling overhead is painted with a glorious sun mural.**
+	
+	Creatures that would take damage from exposure to sunlight (such as vampires) have disadvantage on all ability checks, attack rolls, and saving throws while inside this crypt.
+	
+---
 
 In addition, a human corpse lies sprawled across the floor immediately south of <span class="citation">Crypt 2 (p. 87)</span>. If approached, the corpse rises as a **zombie** and attacks.
 
@@ -1950,6 +2079,63 @@ The vampire also attacks the players if cornered, or if it finds a character iso
 Players with a passive Wisdom (Perception) score of 16 or more occasionally hear distant rustling or catch glimpses of the vampire’s shadow out of the corner of their eye, indicating its current location.
 #### North Crypts, Third Row
 This row of crypts is largely as described in <span class="citation">Crypt 12 (p. 87)</span>, <span class="citation">Crypt 13 (p. 88)</span>, <span class="citation">Crypt 14 (p. 88)</span>, <span class="citation">Crypt 15 (p. 88)</span>, <span class="citation">Crypt 16 (p. 89)</span>, and <span class="citation">Crypt 17 (p. 89)</span>. However, replace the epigraph on Crypt 16 to read “Elsa Fallona, Beloved Actor."
+
+---
+
+Crypt 12
+	*King Troisky—The Three-Faced King*
+	**There are no bones atop the marble slab in this crypt, only a steel helm with a visor shaped like an angry face.**
+	
+	The helm has three evenly spaced visors crafted to look like human faces—one sad, one happy, and one angry. Only the angry visage is visible from the crypt’s doorway. King Troisky wore this three-faced helm in battle, earning him the moniker of Three-Faced King. The helm is nonmagical and weighs 10 pounds.
+	
+	The slab upon which the helm rests is weight-sensitive. If the helm is removed from the slab without 10 pounds of weight immediately being added, poisonous gas pours out of the slab’s hollow interior and fills the crypt. A character who searches the slab for traps and succeeds on a DC 12 Wisdom (Perception) check spots tiny holes bored into the slab’s marble base. It’s from these holes that the gas spews forth.
+	
+	A creature in the crypt when the gas is released must make a DC 14 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
+Crypt 13
+	*King Katsky (Katsky the Bright): Ruler, inventor, and self-proclaimed time traveler*
+	**A skeleton draped in rags lies atop a marble slab in the center of the crypt. Lying amid the bones is a stoppered drinking horn, a fat pouch, and a weird-looking scepter made of metal and wood. Above the bones, hanging from the domed ceiling by wires, is a wooden flying contraption that looks like a set of folding dragon wings fitted with leather straps, metal buckles, and taut leather wing flaps.**
+	
+	The stoppered drinking horn is a water-resistant powder horn loaded with gunpowder, and the “weird-looking scepter” is a musket. The fat pouch contains 20 silver marbles (silvered bullets for the musket). For more information on firearms and explosives, see chapter 9, “Dungeon Master’s Workshop,” of the Dungeon Master’s Guide.
+	
+	Glider. Any Small or Medium humanoid can wear the dragon-wing glider. (It takes 1 minute to don or doff the glider.) It can’t support more than 80 pounds, although the amount of weight it can carry is not evident. A character who inspects the glider in an attempt to discern its maximum weight allowance can do so accurately with a successful DC 15 Intelligence check.
+	
+	If its wearer is light enough (accounting for gear), the apparatus can be used to glide, but only in wide-open spaces where there is room to maneuver. The wearer can become airborne by stepping or jumping off a high place, or by performing a high jump to take off from level ground. While aloft, the wearer gains a flying speed equal to its walking speed, with the following limitations: except in a significant updraft, the wearer can’t use the glider to gain altitude, and the glider descends 1 foot for every 10 feet of horizontal distance covered. At the end of the flight, the wearer lands on its feet and the glider is intact. If the wearer tries to accelerate the rate of descent, the glider breaks, and the wearer falls.
+	
+	The glider has AC 12, 1 hit point, and a 15-foot wingspan. Any damage causes it to break and become inoperable. A mending cantrip can repair the damage, provided all the broken pieces are present.
+Crypt 14
+	*Stahbal Indi-Bhak: A truer friend no ruler ever had. Here lies his family in honor*.
+	If the characters open the door to this crypt, read:
+	**A ten-foot-square shaft plunges into darkness. The sound of slowly dripping water echoes up the shaft.**
+	
+	Characters who have darkvision or a sufficient light source can see that the shaft descends 40 feet to some kind of vault deep in the Pillarstone of Ravenloft. Stones protrude from the shaft at regular intervals, offering handholds and footholds. The stones are slippery, however, so a character who tries to scale the wall without the aid of magic or the use of a climber’s kit must make a successful DC 10 Strength (Athletics) check.
+	
+	Vault. When the characters reach the bottom of the shaft, read:
+	At the bottom of the shaft is a dank vault with a ten-foot-high ceiling. The room is awkwardly shaped and smells of rotten meat. Fifteen stone coffins are scattered throughout the vault, all oriented with their heads pointed north. The floor is covered with human bones and rusty swords.
+	
+	If a character teleports into a coffin from one of the teleport traps that protect Strahd’s tomb (area K86), read the following to that character’s player:
+	A flash of light explodes around you, and then you are plunged into absolute darkness, suddenly lying in a confined space choked with dust.
+	
+	This vault contains fifteen wights (one per coffin), minus any that have been teleported away (see “Teleport Traps” at the start of this section). Lifting a coffin’s lid requires an action and a successful DC 15 Strength check.
+	
+	Each wight remains inactive until it is teleported away or until its coffin is opened, whereupon it attacks.
+	
+	The bones and rusty swords cover the floor to a depth of 6 inches, and are the remains of servants who swore to avenge Stahbal Indi-Bhak’s family. Whenever a wight is killed in this vault, some of the bones knit together, forming 2d6 animated human skeletons. These skeletons attack intruders on sight but have no ranged attacks. There are enough bones and swords in the room for one hundred skeletons to form in this manner.
+Crypt 15
+	*Khazan: His word was power*
+	**A skeleton draped in rags lies atop a marble slab in the center of the crypt. The skull has black opals set in its eye sockets and shards of amber where its teeth should be. The back wall is engraved with eight arcane runes and the inscription: The one who marks my seal with their mastery may prove themselves worthy to inherit my legacy**
+	See below...
+Crypt 16
+	*Elsa Fallona von Twitterberg (Beloved Actor): She had many followers*
+	**A skeleton draped in rags lies atop a marble slab in the center of the crypt. Nine shallow alcoves are carved into the surrounding walls. The back wall of each alcove is painted with a full-body image of a handsome man. Some of the men wear fine clothes; others wear armor. At the feet of each painting rests a skull atop a pile of bones.**
+	
+	The bones in the niches belong to Elsa’s nine consorts. There is nothing of value here.
+Crypt 17
+	*Sir Sedrik Spinwitovich (Admiral Spinwitovich): Confused though he was, he built the greatest naval force ever assembled in a landlocked country*
+	**An eleven-foot-long funeral barge dominates this crypt, wedged diagonally into the available space. Lying in the boat is a skeleton draped in rags, with hundreds of gold coins piled around it.**
+
+	The coins are made of clay painted gold and are worthless. The funeral barge, which was assembled inside the crypt, is too big to fit through the door.
+
+---
 
 ***Crypt 15.*** Speaking the name “Khazan" inside Crypt 15 does not cause a *staff of power* to materialize. Instead, the back wall of the crypt is engraved with eight arcane runes and the inscription: “The one who marks my seal with their mastery may prove themselves worthy to inherit my legacy."  A player with proficiency in Arcana, or who makes a successful DC 10 Intelligence (Arcana) check, identifies the runes as the symbols of the eight schools of magic. The order of the symbols, moving clockwise around the engraving, is: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
 
@@ -1990,20 +2176,144 @@ The player can release the staff at any time. If they release the staff while th
 <span class="citation"><em>This scene takes place in Chapter 4, Area K85.</em></span>
 
 This area is largely as described in <span class="citation">K85. Sergei’s Tomb (p. 93)</span>. However, Sergei’s armor is nonmagical and ceremonial, rather than practical, and cannot be used as plate armor.
+
+---
+
+K85: Sergei's Tomb
+
+A portcullis is closed in the archway into this tomb. Lifting it requires a successful DC 25 Strength check.
+
+	White marble steps descend to a tomb that has a vaulted ceiling thirty feet overhead. A stillness — a calm amid the storm — is felt here. In the center of the tomb, a white marble slab supports an intricately inlaid coffin. Chiseled into the slab is a name: Sergei von Zarovich. To the north, behind the coffin, are three alcoves. A beautifully carved statue stands in each alcove — a stunning young man flanked by two angels — looking as polished and new as the day each was placed there. An iron lever protrudes from the south wall, west of the tomb’s entrance.
+
+Raising the lever lifts the portcullis at the top of the stairs. Pulling it down lowers the portcullis.
+
+The coffin opens easily to the touch of a lawful good creature. Otherwise, opening it requires a successful DC 15 Strength check. Sergei’s flesh has been magically preserved, and at first glance it looks like he is sleeping in his casket.
+
+---
 ## P12b. Central Catacombs
 ### Central Crypts
 #### Central Crypts, North Row
 This row of crypts is largely as described in <span class="citation">Crypt 18 (p. 89)</span>, <span class="citation">Crypt 19 (p. 89)</span>, and <span class="citation">Crypt 20 (p. 89)</span>. However, Sasha does not attack the players if encountered in her crypt. (Strahd has ordered her to remain here, and she cannot depart her crypt if asked.)
+
+---
+
+Crypt 18
+	**The stone door of this crypt has been carefully laid to one side. Through the swirly mists of the perpetual fog, freshly engraved letters spell out the words “Ireena Kolyana: Wife.”**
+	
+	The crypt is empty and has been swept clean. This is where Strahd intends to keep Ireena once he turns her into a vampire spawn.
+Crypt 19
+	*Artimus (Builder of the Keep): Thou standest amidst the monument to his life*
+	**A skeleton draped in rags lies atop a marble slab in the center of the crypt.**
+	
+	This crypt contains nothing of interest.
+Crypt 20
+	*Sasha Ivliskova—Wife*
+	**Webs as thick and pale as linen cover a shapely female form lying atop a marble slab in the center of this dusty, web-filled crypt. You hear a voice issue from the darkness.**
+		**“My love, have you come to set me free?”**
+		**The woman rises, the shroud of webs clinging to her in a ghastly fashion.**
+
+---
 #### Central Crypts, South Row
 This row of crypts is largely as described in <span class="citation">Crypt 21 (p. 89)</span>, <span class="citation">Crypt 22 (p. 90)</span>, and <span class="citation">Crypt 23 (p. 90)</span>. However, Crypt 21 does not contain Patrina’s **banshee**. (Patrina’s spirit instead resides in the Amber Temple.) In addition, the epigraph on Crypt 23 bears the name of the character whose skill, arrogance, and power have impressed Strahd the most.
+
+---
+
+Crypt 21
+	_Patrina Velikovna—Bride_
+	**In the center of the crypt, a skeleton draped in rags lies atop a marble slab, surrounded by thousands of coins.**
+	
+	Patrina’s crypt contains 250 pp, 1,100 gp, 2,300 ep, 5,200 sp, and 8,000 cp. The coins are of a mixed origin. The platinum and electrum coins have Strahd’s profiled visage stamped on them. Buried under the coins is Patrina’s spellbook, which has carved wooden covers. It contains all the spells listed for the [archmage](https://www.dndbeyond.com/monsters/16789-archmage) in the [Monster Manual](https://www.dndbeyond.com/sources/mm "Monster Manual").
+
+Crypt 22
+	*Sir Erik Vonderbucks*
+	**A gilded man lies atop a marble slab in the center of this otherwise barren crypt.**
+	
+	Sir Erik Vonderbucks was a wealthy noble whose dying wish was to have his corpse dipped in molten gold.
+	
+	Treasure. The thin layer of gold, if peeled from Sir Erik’s desiccated corpse, is worth 500 gp.
+
+Crypt 23
+	*Thonk lastname*
+	Opening the crypt releases a horrid stench of decay and reveals a corpse lying on the marble slab within. The corpse looks like the character named on the door. Touching the corpse causes it to melt away, whereupon the inscription fades. On later visits to this crypt, the door is unmarked and the crypt is empty.
+
+---
 ### King & Queen’s Tomb
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K87 & K88.</em></span>
 
 This area is as described in <span class="citation">K87. Guardians (p. 94)</span> and <span class="citation">K88. Tomb of King Barov and Queen Ravenovia (p. 94)</span>.
+
+---
+
+K87 Guardians
+
+The following text assumes that the characters are approaching from area K84. If they approach this area from area K88, references to descending stairs should be changed to ascending stairs.
+
+	Wide steps descend to a landing flanked by two alcoves. Within each alcove, taking up the full thirty-foot height of the ceiling, is a bronze statue of a warrior holding a spear. A soft blue curtain of light flows between the two alcoves. Dimly visible on the other side of the curtain are more descending stairs.
+
+The curtain has no effect on creatures that move east to west (from area K88 to area K84).
+
+A creature of lawful good alignment that moves west to east through the curtain can do so without difficulty, but creatures of other alignments that do so are teleported back to the top of the stairs behind them. A Small creature can squeeze behind and around one of the bronze statues to circumvent the light curtain.
+
+K88 Tomb of King Barov and Queen Ravenovia
+
+	This tomb rests in hushed silence. Tall, stained glass windows dominate the eastern walls, allowing dim light to fall on two coffins resting atop white marble slabs. The one against the north wall is marked King Barov von Zarovich, and the one against the south wall is marked Queen Ravenovia van Roeyen. The vaulted ceiling thirty feet overhead is inlaid with a beautiful gold mosaic.
+
+The stained glass windows are so dirty on the outside as to be nearly opaque. The windows don’t open, but they can be smashed easily. Anyone who looks upward through a window can see, 110 feet above, the castle’s stone overlook ([area K6](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K6Overlook "area K6")). Anyone who falls out a window here plummets almost 900 feet to the base of the Pillarstone of Ravenloft.
+
+Prying the gold from the ceiling of this tomb would be a long and tedious effort for little reward.
+
+The north coffin holds a beautifully sculpted, life-sized wax effigy of Strahd’s father, King Barov. The old king’s bones lie in a compartment beneath his effigy.
+
+The south coffin holds the skeleton of Strahd’s mother, Queen Ravenovia. (The magic that was meant to preserve her earthly remains failed years ago.) A tattered white shroud covers her bones.
+
+---
 ## P12c. South Catacombs
 ### South Crypts
 #### South Crypts, First Row
 This row of crypts is largely as described in <span class="citation">Crypt 24 (p. 90)</span>, <span class="citation">Crypt 25 (p. 90)</span>, <span class="citation">Crypt 26 (p. 90)</span>, <span class="citation">Crypt 27 (p. 90)</span>, <span class="citation">Crypt 28 (p. 90)</span>, and <span class="citation">Crypt 29 (p. 91)</span>. However, remove the **giant wolf spiders** from Crypt 27, and replace the *luck blade* in Crypt 29 with a set of *+2 studded leather armor*.
+
+---
+
+Crypt 24
+	*Ivan Ivliskovich, Champion of Winter Dog Racing: The race may go to the swift, but vengeance is for the loser’s relatives*
+	**A skeleton draped in bits of fur lies atop a marble slab in the center of the crypt. The walls and ceiling are covered with plaster painted to make the crypt seem as if it stands in an evergreen forest, surrounded by snow. The plaster has peeled and fallen away in many places, shattering the illusion.**
+	
+	This crypt contains nothing of interest.
+
+Crypt 25
+	_Stefan Gregorovich: First Counselor to King Barov von Zarovich_
+	**A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished.**
+	
+	A [detect magic](https://www.dndbeyond.com/spells/2065-detect-magic) spell cast here reveals that Stefan’s skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a [speak with dead](https://www.dndbeyond.com/spells/2259-speak-with-dead) spell had been cast on it. This property recharges each day at dawn. In life, Stefan was neither observant nor well informed. If the skull is questioned about Strahd or Castle Ravenloft, all the information it provides is untrue.
+
+Crypt 26
+	*Intree Sik-Valoo: He spurned wealth for the knowledge he could take to heaven*
+	**A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished.**
+	
+	A detect magic spell cast here reveals that Intree’s skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a speak with dead spell had been cast on it. This property recharges each day at dawn. Unlike Stefan Gregorovich in crypt 25, Intree was well educated and astute. If the skull is questioned about Strahd or the castle, the information it provides is true.
+
+Crypt 27
+	**This crypt is missing its door. Large webs infest this otherwise empty crypt.** 
+
+Crypt 28
+	*Bascal Ofenheiss—Chef Deluxe*
+	**A skeleton draped in white linen lies atop a marble slab in the center of the crypt, clutching a bell to its sunken chest. Fitted over its skull is a tall chef’s hat.**
+	
+	If the bell is rung inside the crypt, magic fire sweeps through the crypt to scorch Chef Ofenheiss’s bones. A creature in the crypt must make a DC 17 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half damage on a successful one. Any creature that fails its save catches fire, taking 5 (1d10) fire damage at the end of each of its turns until it or another creature uses an action to douse the flames.
+	
+	Treasure. Tucked under the chef’s hat is an electrum spork with a bejeweled handle (worth 250 gp).
+
+Crypt 29
+	*Baron Eisglaze Drüf*
+	**Opening the door causes the air around you to turn as cold as the coldest hell you can imagine. Every surface inside the crypt is covered with thick, brownish mold.**
+	
+	A patch of brown mold (see “Dungeon Hazards” in chapter 5, “Adventure Environments,” of the Dungeon Master’s Guide) fills the crypt. Characters within 5 feet of the crypt’s open doorway are affected.
+	
+	If the brown mold is killed off, characters can dig through the moldy crust to find the bones of Baron Drüf lying atop a marble slab.
+	
+	Treasure. Hidden under the brown mold next to the baron’s bones is a set of +2 Studded Leather armor. 
+
+---
 #### South Crypts, Second Row
 This row of crypts is largely as described in <span class="citation">Crypt 30 (p. 91)</span>, <span class="citation">Crypt 31 (p. 91)</span>, <span class="citation">Crypt 32 (p. 91)</span>, <span class="citation">Crypt 33 (p. 91)</span> and <span class="citation">Crypt 34 (p. 92)</span>. However, revise the epigraph on Crypt 33 to read “St. Finderway, Saint of Lost Travelers," and replace Sir Klutz’s remains with a set of human bones lying beside an *orb of direction* (<span class="citation">Xanathar’s Guide to Everything, p. 138</span>) hanging from a leather cord.
 
@@ -2011,6 +2321,47 @@ In addition, remove the **imp** from Crypt 34, and place the *Spear of the Huntr
 
 > [!item]+ **Spear of the Huntress**
 > This six-foot shaft of ash wood is adorned with carvings of wild animals, vines, and leaves, and bears a simple, yet sharp stone head. When first recovered from Dostron’s sarcophagus, it has the properties of a *blood spear* (<span class="citation">Blood Spear, p. 221</span>), but its wielder gains only a +1 bonus to attack and damage rolls made with it instead of +2. (The spear was corrupted long ago by the influence of Kavan and the Devourer, and can be restored in [[Arc T - The Three Fanes]] by either communing with the spirit of the Huntress, or reconsecrating the Forest Fane at Yester Hill, which the players can learn about at the Mountain Folk settlement of Soldav in [[Arc R - Trials of the Mountain]].)
+
+---
+
+Crypt 30
+	*Prefect Ciril Romulich (Beloved of King Barov and Queen Ravenovia): High Priest of the Most Holy Order*
+	**A marble slab in the center of the crypt displays a skeleton draped in red vestments, a golden holy symbol clutched in one bony hand. The domed ceiling fifteen feet above is painted to look like a canopy of trees with bright autumn leaves. A narrow stone ledge encircles the crypt ten feet above the floor. Perched on it are dozens of stone ravens, their eyes fixed on the marble slab.**
+	
+	The carved ravens are ominous yet harmless.
+	
+	Treasure. The prefect’s gold holy symbol is festooned with tiny gemstones and is worth 750 gp. If touched by an evil creature, the holy symbol is consumed in a blast of intense light that deals 11 (2d10) radiant damage to all creatures within 5 feet of it. Characters familiar with Barovian religion recognize the symbol as that of the Morninglord.
+
+Crypt 31
+	*We knew him only by his wealth*
+	**This crypt is empty. Its walls are painted to depict mountains of gold coins.**
+	
+	The floor of the crypt is actually the cover of a 30-foot-deep spiked pit. The cover opens if 100 pounds of weight or more are placed on it. It splits down the middle, east to west, and its doors are spring-loaded. After a victim or victims fall into the pit, its doors snap shut. (See “Sample Traps” in chapter 5, “Adventure Environments,” of the Dungeon Master’s Guide the rules on locking pits and spiked pits.) The spikes at the bottom of the pit are made of iron but aren’t poisoned.
+	
+	Treasure. A human skeleton (the remains of a dead adventurer) wrapped in bits of studded leather armor lies amid the spikes at the bottom of the pit. A shattered lantern and a rusty crowbar lie nearby. Tied to the corpse’s leather belt is a 50-foot coil of hempen rope, a dagger in a worn scabbard, a pouch containing 25 pp, and a stoppered wooden tube containing a spell scroll of magic circle.
+
+Crypt 32
+	**The door to this crypt has no name or epitaph on it.**
+	**This crypt is empty except for two alcoves in the back wall. Above the alcoves are carved the following words: Pass Not These Portals Ye Foolish Mortals**
+	
+	A detect magic spell reveals that both alcoves radiate strong auras of conjuration magic.
+	
+	Creatures that enter the eastern alcove of this crypt are teleported to the eastern alcove of Strahd’s tomb (area K86). Stepping into the western alcove of this crypt has no effect, but any creature that teleports from the western alcove of area K86 appears here.
+
+Crypt 33
+	*St. Finderway, Saint of Lost Travelers*
+	**In the center of this crypt, atop a marble slab, human bones lie beside a translucent blue orb with gold trimmings, the latter hangs by a leather cord**.
+
+Crypt 34
+	*King Dostron the Hellborn*
+	**Resting in the center of this crypt is a seven-foot-long gilded sarcophagus, its lid painted with the likeness of a screaming king wearing a crown of horns. Looming behind the sarcophagus is a stuffed owlbear frozen in a roar, with claws outstretched.**
+	
+	King Dostron was an ancient ruler of this land, long before the arrival of Strahd. He claimed descent from a duke of the Nine Hells, and his deeds did justice to this ancestry. His sarcophagus is made of beaten lead and encased in gold (see “Treasure” below). Its lid can be pried open with a crowbar or similar tool, revealing nothing but dust within. The stuffed owlbear is a late addition to the crypt’s decor—a gift given to Strahd that wound up here. It looks almost alive but is harmless.
+	
+	Treasure. Inside the sarcophagus lies the spear of the huntress. Characters who take the time to pry the gold from the sarcophagus can amass 500 gp worth of the precious metal, weighing 10 pounds.
+	Spear of the Huntress: Inside the sarcophagus you find a wooden spear with stone head affixed to each end. Dried blood is spattered on either side. 
+
+---
 #### South Crypts, Third Row
 This row of crypts is largely as described in <span class="citation">Crypt 35 (p. 92)</span>, <span class="citation">Crypt 36 (p. 92)</span>, <span class="citation">Crypt 37 (p. 92)</span>, <span class="citation">Crypt 38 (p. 92)</span>, <span class="citation">Crypt 39 (p. 93)</span>, and <span class="citation">Crypt 40 (p. 93)</span>. However, the **hell hounds** and General Grislek’s **wraith** do not emerge from Crypt 38 when it is first opened. In addition, Beucephalus cannot be found in Crypt 39 at this time. Finally, move the invisible teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> to the base of the stairs in Strahd’s tomb (see below).
 
@@ -2019,6 +2370,66 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 > * **Three Players**. Reduce the number of ghouls to 4. 
 > * **Four Players**. Reduce the number of ghouls to 5. 
 > * **Six Players**. Increase the number of ghouls to 7.
+
+---
+
+Crypt 35
+	*Sir Jarnwald the Trickster: The joke was on him*
+	**A charnel stench fills this empty crypt.**
+	
+	The floor here is an illusion that hides a 20-foot-deep pit. The sides of the pit are polished smooth; a creature without a climbing speed can’t move along them without the aid of magic or a climber’s kit. At the bottom of the pit are six starving ghouls. A permanent silence spell suppresses sound in the pit. The silence can be dispelled, as can the illusory floor (DC 14 for both).
+	
+	Treasure. Sir Jarnwald was “entombed” here, so far as he was pushed into the crypt and devoured by the ghouls. What remains of him lies scattered on the pit floor: a few scraps of clothing, a handful of teeth, and a signet ring that bears a stylized “J” (worth 25 gp).
+
+Crypt 36
+	**Claw marks obliterate the name on this crypt’s door.**
+	**A skeleton draped in rags lies atop a marble slab in the center of the crypt.**
+	
+	This crypt contains nothing of interest.
+
+Crypt 37
+	*Gralmore Nimblenobs—Wizard Ordinaire*
+	**Lying on a marble slab in the center of this crypt is the corpse of a man with a long white beard. His skin clings tightly to his skull and bones, and he wears dusty red robes. Clutched to his chest is a wooden staff that has a brass knob on one end and a marble knob on the other.**
+	
+	The staff is a nonmagical quarterstaff.
+	
+	Inspection of the marble slab reveals a shallow, concave recess at one end. If the marble-knobbed end of Gralmore’s staff is placed in the recess, the slab levitates 5 feet upward, revealing a compartment underneath (see “Treasure” below). The slab slowly sinks back into place after 1 minute. If the brass-knobbed end of the staff is placed in the recess, the holder of the staff takes 22 (4d10) lightning damage.
+	
+	Treasure. The compartment under the slab holds a small, black leather case containing three spell scrolls (cone of cold, fireball, and lightning bolt).
+
+Crypt 38
+	_General Kroval “Mad Dog” Grislek (Master of the Hunt): A leader of hounds and men_
+	**Strewn atop a marble slab in the center of the crypt are fragments of a shattered spear with a silvered head. The walls and domed ceiling of the crypt are covered with scorched murals that depict legions of infantry and cavalry clashing on battlefields.**
+	
+	A [mending](https://www.dndbeyond.com/spells/2187-mending) cantrip can repair the spear, which is broken into three pieces of roughly equal length. If repaired, it can be wielded as a silvered, nonmagical spear.
+
+Crypt 39
+	*Beucephalus, the Wonder Horse: May the flowers grow ever brighter where he trods*
+	
+	The door to this crypt is larger than all the others, 6 feet wide by 8 feet tall. Removing or resetting the slab requires a successful DC 20 Strength check. When the door is opened, read:
+	Dry, hot air and smoke billow from the crypt as a black horse with a flaming mane and fiery hooves emerges. Smoke billows from its nostrils as it rears up to attack.
+	
+	The nightmare, Beucephalus, is Strahd’s steed. It has 104 hit points. If the characters slay it, Strahd hunts them down mercilessly. When the steed wants to leave the castle, it flies up the central shaft of the high tower (area K18a), exiting through the gash in the tower roof (area K59).
+
+Crypt 40
+	*Saint Markovia: Dead for all time*
+	
+	The 10-foot-square section of floor in front of this crypt is a pressure plate that releases four poison darts hidden in tiny holes in the north wall. (See “Sample Traps” in chapter 5, “Adventure Environments,” of the Dungeon Master’s Guide for the rules on how this trap functions.) The trap resets when the weight is lifted and can be triggered a total of four times before its supply of darts is depleted.
+	
+	If the door to the crypt is opened, read:
+	This crypt smells of roses. The remains atop its marble slab have disintegrated, except for one thighbone.
+	
+	If the characters disturb Saint Markovia’s remains, add:
+	A ghostly form appears above the dust, so faint that you can barely discern more than part of a face. From this apparition comes the faintest of whispers: “The vampire must be destroyed. Use me as your weapon.” With that, it fades away.
+	
+	Treasure. A detect magic spell reveals that the thighbone radiates an aura of evocation magic. See appendix C for more information on Saint Markovia’s thighbone.
+	
+	Trap
+	When a creature steps on a hidden pressure plate, poison-tipped darts shoot from spring-loaded or pressurized tubes cleverly embedded in the surrounding walls. An area might include multiple pressure plates, each one rigged to its own set of darts.
+	The tiny holes in the walls are obscured by dust and cobwebs, or cleverly hidden amid bas-reliefs, murals, or frescoes that adorn the walls. The DC to spot them is 15. With a successful DC 15 Intelligence ([Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check, a character can deduce the presence of the pressure plate from variations in the mortar and stone used to create it, compared to the surrounding floor. Wedging an iron spike or other object under the pressure plate prevents the trap from activating. Stuffing the holes with cloth or wax prevents the darts contained within from launching.
+	The trap activates when more than 20 pounds of weight is placed on the pressure plate, releasing four darts. Each dart makes a ranged attack with a **+8**![](moz-extension://a6794e67-d4fa-45f7-a4cb-1dd48fc8a3c8/images/icons/badges/custom20.png) bonus against a random target within 10 feet of the pressure plate (vision is irrelevant to this attack roll). (If there are no targets in the area, the darts don’t hit anything.) A target that is hit takes 2 (**1d4**![](moz-extension://a6794e67-d4fa-45f7-a4cb-1dd48fc8a3c8/images/icons/badges/custom20.png)) piercing damage and must succeed on a DC 15 Constitution saving throw, taking 11 (**2d10**![](moz-extension://a6794e67-d4fa-45f7-a4cb-1dd48fc8a3c8/images/icons/badges/custom20.png)) poison damage on a failed save, or half as much damage on a successful one.
+
+---
 
 ***Crypt 40.*** Replace the epigraph and contents of Crypt 40 with the epigraph and contents of <span class="citation">Crypt 6 (p. 86)</span>, including the **poison dart trap** protecting it (see <span class="citation">Dungeon Master’s Guide, p. 123</span>). However, reduce the number of darts to two, and replace the darts’ attack rolls with two DC 15 Dexterity saving throws (one per dart). In addition, replace Saint Markovia’s thighbone with the *Icon of Dawn’s Grace* (see below), and remove the whispered message from Saint Markovia’s spirit.
 

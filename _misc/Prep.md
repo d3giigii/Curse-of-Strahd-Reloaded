@@ -487,3 +487,92 @@ Starting 14 Neyavr, night
 	* The shadow will guide the players through the element and familiar rooms and up the offstair toward the tower roof. 
 	* Halfway up the offstair it will show them a section of the wall...
 * The players may attempt to explore the castle at this point, or return to the Guest Suite. 
+
+# 30 NOV 2025
+Starting 15 Neyavr, morning. 
+
+Planning session on 28 NOV
+* Acquired necessary gear from Vallaki. 
+* Acquired map and information of Castle Ravenloft from Van Richten. 
+
+Play session on 30 NOV
+* Party will set up a camp outside castle ravenloft before dusk. 
+* Party will move from camp to outside the castle after seeing Strahd leave after dusk. 
+* Party will find a way to infiltrate the exterior of the castle and enter through the servants entrance. 
+* Party will move down to the larders. 
+* Party will find Cyrus who asks them to retrieve his spoon and either
+	* Move to do so toward the Hall of Bones
+		* Vampire Spawn combat just outside Hall of Bones
+		* Skeleton combat inside Hall of Bones
+	* Move to the South Tower Stair to enter the catacombs. 
+# 7 DEC 2025
+Starting 15 Neyavr, dusk
+
+* Resuming just before combat in the Hall of Bones
+* Party will deal with the skeletons and retrieve Argynvosts Skull and put it in their Box of Holding. 
+* Party may investigate the larders further, or begin moving toward the catacombs
+	* Larders
+		* K70 Kingsmen Hall
+			* As described
+		* K71 Kingsmen Quarters
+			* Sack also contains a stone of good luck. 
+		* K72 Chamberlains Office
+			* No Rahadin or Shadow Demon. Letter on desk. 
+		* K79 Western Stair
+			* Secret door and tunnel connecting K72 to K78 Brazier Room. 
+			* Friendly shadow appears. 
+		* K68 Guards Run
+			* As described
+		* K69 Guards Quarters
+			* See Guards' Quarters 
+		* K64 Guards Stair
+			* "The long, hollow sigh of the wind breathes a semblance of life into this otherwise featureless staircase." The stairway starts at [area K68](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K68GuardsRun "area K68") and goes up past [area K13](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K13TurretPostAccessHall "area K13") to [area K46](https://www.dndbeyond.com/sources/dnd/cos/castle-ravenloft#K46Parapets "area K46").
+	* Catacombs
+		* K61 Elevator Hall
+			* Largely as described. Trap trigger on 3+ medium+ creatures in space. 
+			* Dispenses sleeping gas knocking out as if Sleep spell. 
+			* Ascends to K47 Guest Landing
+		* K21 South Tower Stair
+			* As described. Connects to
+				* K47 Guest Landing
+				* K36 Dining Hall of the Count
+				* K30 King's Accountant
+				* K9 Guests' Hall
+				* K61 Elevator Trap
+				* K73 Dungeon Hall
+		* K73 Dungeon Hall
+			* See Arc P P11a. Dungeon Hall
+		* K74 North Dungeon
+			* See P11b. North Dungeon
+		* K75
+			* See P11c. South Dungeon
+		* K76 Torture Chamber
+			* No "last victims" in the devices. 
+		* K77 Observation Balcony
+		* K78
+# 21 DEC 2025
+Starting 15 Neyavr, night
+* Resuming after the party discovered a trap 
+* K74: North Dungeon
+	* This area is largely as described in <span class="citation">K74. North Dungeon (p. 80)</span>. However, modify the half-elf corpse in <span class="citation">K74c. Rotting Corpse (p. 80)</span> to be a human corpse instead. 
+	* In addition, modify the description of <span class="citation">K74h. Lost Sword (p. 81)</span> to refer to a glowing mace, rather than a glowing blade. The mace has the same properties as the shortsword, but is not sentient, requires no attunement, and allows its wielder to cast *aura of life* rather than *crusader’s mantle*.
+* K75: South Dungeon
+	* This area is largely as described in <span class="citation">K75. South Dungeon (p. 81)</span>. However, Emil doesn’t lie to players who tell him that Zuleika sent them, and is surprised, but grateful for their efforts to rescue him. No matter what, Emil doesn’t betray the players to Strahd or Strahd’s minions, and provides his best efforts to assist them in escaping the castle if rescued.
+	* Emil, who has three levels of exhaustion, has been locked in his cell for weeks. He wears a *silverthorn collar* around his neck (see below). If asked, he can share that the key to his collar is held by Volenta.
+* K76 / K77: Torture Chamber
+
+# 28 DEC 2025
+Starting 15 Neyavr, night
+
+* Resuming after the party sent Emil and Anton through the teleportation brazier. 
+* Party may continue through K79, K80, or K83. 
+	* K79 P11f. Western Stair
+		* Leads to Chamberlains Office and the larders. 
+		* A player who investigates <span class="citation">K79. Western Stair (p. 84)</span> (leading to <span class="citation">K72. Chamberlain’s Office (p. 79)</span>) observes a humanoid silhouette appearing to observe them from the far side of the landing. Once noticed, the silhouette quickly ducks out of sight. (The silhouette is a **shadow**. 
+		* Shadow will be spotted and flee upward and hide itself in one of the desk drawers. It will show that it is friendly, but will not leave the the office until it is reunited with the other shadow in the castle. 
+	* K80 Center Stair: 
+		* Leads to catacombs. 
+		* A player who investigates <span class="citation">K80. Center Stair (p. 84)</span> (leading to <span class="citation">K81. Tunnel (p. 84)</span> and <span class="citation">K84. Catacombs (p. 85)</span>) observes only the thick, opaque fog, which limits visibility as described in <span class="citation">K81. Tunnel (p. 84)</span>.
+	* K83 Spiral Stair
+		* Leads to Gertruda. 
+		* A player who investigates <span class="citation">K83. Spiral Stair (p. 85)</span> (leading to <span class="citation">K37. Study (p. 66)</span>) observes a woman’s slipper lying discarded on one of the upper stairs, just before the spiral staircase curves out of sight. A DC 12 Intelligence (Investigation) check suggests that the slipper’s owner was traveling up the staircase, rather than down. (The slipper is Gertruda’s, and was left here by Strahd to lure the players toward her bedchamber.)
