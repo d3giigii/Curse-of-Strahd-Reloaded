@@ -155,7 +155,7 @@ Should the players indicate an opposition to the Baron, Lady Wachter confesses t
 
 * The Vallakovich family has ruled Vallaki ever since its first patriarch, Boris Vallakovich, founded the town nearly five-hundred years ago. The Vallakoviches claim to have royal blood in their veins, and have always believed themselves superior to all others in the valley—and the current Baron is no different.
 * Baron Vargas Vallakovich first came to power as burgomaster eleven years ago, when his father, Baron Valentin Vallakovich, passed away in his sleep. (At the time, Valentin was barely fifty years old and in near-perfect health. Fiona has always harbored her suspicions, but no foul play ever came to light.)
-* Vargas is a firm believer in the superstition that the Devil Strahd first arrived as a punishment for the sins of the Barovians’ ancestors. He has therefore always had a strange fixation on the idea that “happiness” may one day allow the Vallakian people to return sunlight to the valley, hosting monthly “festivals” that most have always considered to be dull affairs.
+* Vargas is a firm believer in the superstition that the Devil Strahd first arrived as a punishment for the sins of the Barovians’ ancestors. He has therefore always had a strange fixation on the idea that “happiness” may one day allow the Vallakian people to return sunlight to the valley, hosting weekly “festivals” that most have always considered to be dull affairs.
 * Ever since Strahd’s awakening three months ago, Vargas’s once-harmless beliefs have become an obsessive fixation. He has instituted weekly festivals and made attendance mandatory. 
 * Vargas has also criminalized “malicious unhappiness,” as described in <span class="citation">Donkey-Headed Criminals (p. 119)</span>. While most “lawbreakers” wind up in the stocks, a select few have been taken to his mansion for personal “rehabilitation”—including Udo Lukovich, a local shoemaker, who was arrested last week as described in <span class="citation">N3m. Locked Closet (p. 107)</span>. Udo hasn’t been seen since.
 * Vargas’s fear and paranoia have even driven him to bar the refugees from the village of Barovia from entering Vallaki—an enormous abuse of power that has caused significant and undeserved suffering.
@@ -474,12 +474,26 @@ If Ireena has accompanied the players to the lake, Izek instructs her to stand a
 <p><strong><em>Retaliatory Burn (1/round).</em></strong> In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. Any creature in physical contact with the weapon immediately takes 4 (1d8) fire damage and must succeed on a DC 13 Constitution saving throw or drop the weapon if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of Izek’s next turn.</p>
 </div>
 
-> [!combat]+ **Balancing the Brute**
-> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 4th-level players and a CR 2 ally (Ireena Kolyana), and will each consume approximately 31% of their total maximum hit points (for a total of 62% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Brute**  
+> **Combat Level**: Bruising (first phase), Bruising (second phase)
+> **Expected Character Level**: 4
+> **Allies:** Ireena Kolyana (CR 2)
+> **Expected HP Consumption:** 31% (first phase), and 31% (second phase) for a total of 62%
+> 
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Izek Strazni | 1 | 1 | 1 | 1 |
 >
-> * ***Three Players.*** Reduce Izek’s hit points to 75 in each phase. For his first phase, reduce his silvered battleaxe attack to 7 (1d8+3) damage, his flame hurl attack and flame volley bonus action to 4 (1d8) damage, and his slicing whirl bonus action to 3 (1d6) damage. For his second phase, reduce his silvered battleaxe attack to 6 (1d6+3) slashing damage plus 1 fire damage, his burning punch attack to 5 (1d4+3) bludgeoning damage plus 1 fire damage, his flaming wave action to 7 (2d6) damage, his flame burst and explosive blast bonus actions to 4 (1d8) damage, his retaliatory burn reaction to 2 (1d4) fire damage, and his cinder sparks reaction to 1 fire damage.
-> * ***Four Players.*** Reduce Izek’s hit points to 92 in each phase. For his first phase, reduce his silvered battleaxe attack to 9 (1d8+5) damage, his flame hurl attack and flame volley bonus action to 5 (1d10) damage, and his slicing whirl bonus action to 4 (1d8) damage. For his second phase, reduce his silvered battleaxe attack to 8 (1d6+5) slashing damage plus 1 fire damage, his burning punch attack to 7 (1d4+5) bludgeoning damage plus 1 fire damage, his flaming wave action to 9 (2d8) damage, his flame burst and explosive blast bonus actions to 6 (1d12) damage, his retaliatory burn reaction to 3 (1d6) fire damage, and his cinder sparks reaction to 1 fire damage.
->  * ***Six Players.*** Increase Izek’s hit points to 128 in each phase. For his first phase, increase his silvered battleaxe attack to 11 (1d12+5) damage and his slicing whirl bonus action to 6 (1d12) damage. For his second phase, increase his silvered battleaxe attack to 10 (1d10+5) slashing damage plus 2 (1d4) fire damage, his burning punch attack to 9 (1d8+5) bludgeoning damage plus 2 (1d4) fire damage, his flaming wave action to 13 (2d12) damage, and his retaliatory burn reaction to 5 (1d10) fire damage.
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce Izek’s hit points to 75 in each phase. For his first phase, reduce his silvered battleaxe attack to 7 (1d8+3) damage, his flame hurl attack and flame volley bonus action to 4 (1d8) damage, and his slicing whirl bonus action to 3 (1d6) damage. For his second phase, reduce his silvered battleaxe attack to 6 (1d6+3) slashing damage plus 1 fire damage, his burning punch attack to 5 (1d4+3) bludgeoning damage plus 1 fire damage, his flaming wave action to 7 (2d6) damage, his flame burst and explosive blast bonus actions to 4 (1d8) damage, his retaliatory burn reaction to 2 (1d4) fire damage, and his cinder sparks reaction to 1 fire damage. |
+> | 4 | Reduce Izek’s hit points to 92 in each phase. For his first phase, reduce his silvered battleaxe attack to 9 (1d8+5) damage, his flame hurl attack and flame volley bonus action to 5 (1d10) damage, and his slicing whirl bonus action to 4 (1d8) damage. For his second phase, reduce his silvered battleaxe attack to 8 (1d6+5) slashing damage plus 1 fire damage, his burning punch attack to 7 (1d4+5) bludgeoning damage plus 1 fire damage, his flaming wave action to 9 (2d8) damage, his flame burst and explosive blast bonus actions to 6 (1d12) damage, his retaliatory burn reaction to 3 (1d6) fire damage, and his cinder sparks reaction to 1 fire damage. |
+> | 6 | Increase Izek’s hit points to 128 in each phase. For his first phase, increase his silvered battleaxe attack to 11 (1d12+5) damage and his slicing whirl bonus action to 6 (1d12) damage. For his second phase, increase his silvered battleaxe attack to 10 (1d10+5) slashing damage plus 2 (1d4) fire damage, his burning punch attack to 9 (1d8+5) bludgeoning damage plus 2 (1d4) fire damage, his flaming wave action to 13 (2d12) damage, and his retaliatory burn reaction to 5 (1d10) fire damage. |
 
 If the players loot Izek’s body following his death, they can recover his silvered battleaxe, a pouch containing 35 gp, and an amber shard of Seriach, the Hell Hound Whisperer. (See the [[Amber Shards]] appendix for more information about amber shards.)
 
@@ -560,7 +574,7 @@ Lady Wachter can share that, according to the book, Vladislav was a Wachter and 
 # Design Notes: Lady Wachter's Wish
 ***The Blue Water Inn.*** The hook to this quest—Lady Wachter's decision to send the players an invitation to dine at Wachterhaus—has been tweaked to provide more support for Lady Wachter's decision to entrust the players with her conspiracy.
 
-***Wachterhaus.*** The corpse of Nikolai Wachter has been removed from Wachterhaus to ensure that he does not serve as a black mark against Lady Wachter—a complicated figure who the players should have more cause to trust, not less. (See [[Arc H - The Lost Soul]] and [[Arc S - The Moonlit Murders]] for more information about the players' relationship with Lady Fiona Wachter.)
+***Wachterhaus.*** The corpse of Nikolai Wachter has been removed from Wachterhaus to ensure that he does not serve as a black mark against Lady Wachter—a complicated figure who the players should have more cause to trust, not less. (See [[Arc H - The Lost Soul]] for more information about the players' relationship with Lady Fiona Wachter.)
 
 Lady Wachter's spell list has been updated to include *zone of truth* in order to provide her with a powerful tool to encourage the players to trust her. (See [[Arc D - The Tome of Strahd]] for more information about Lady Wachter's use of *zone of truth*). 
 
@@ -576,7 +590,7 @@ Lady Wachter's scheme with the poisoned wine has been added to provide the playe
 
 In addition to supporting her argument, Lady Wachter's tale of Berez has been added to introduce the fate of the ruined village (which the players can visit in [[Arc I - The Walls of Krezk]]) and to subtly foreshadow her connection to Baba Lysaga.
 
-Lady Wachter's anecdotes regarding Ezra and Leo Dilisnya have been added to foreshadow Ezra's connection to the Dark Powers (which the players will discover in [[Arc X - Tatyana's Legacy]]) and to introduce Leo Dilisnya's hostile relationship with the Wachter family. (The players will have an opportunity to fight Leo Dilisnya and learn more about that relationship in [[Arc H - The Lost Soul]].)
+Lady Wachter's anecdotes regarding Ezra and Leo Dilisnya have been added to foreshadow Ezra's connection to the Dark Powers (which the players will discover in [[Arc T - The Three Fanes]]) and to introduce Leo Dilisnya's hostile relationship with the Wachter family. (The players will have an opportunity to fight Leo Dilisnya and learn more about that relationship in [[Arc H - The Lost Soul]].)
 
 ***Return to the Blue Water Inn.*** The players' encounter with Ernst Larnak has been added to introduce his character prior to his antagonistic role in [[Arc S - The Moonlit Murders]].
 

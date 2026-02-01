@@ -14,7 +14,7 @@ If the players request Lady Wachter’s help, she assists them only if they have
 
 If the players successfully obtain Lady Wachter’s aid, she and four of her **cult fanatics** join the players for a journey to Morgantha’s lair at Old Bonegrinder. Lady Wachter warns the players that they will need to obtain the names of all hags within the windmill in order to bind them, lest any members of the coven escape to attack her or her cultists. Once the players have obtained the names of Morgantha’s daughters (and, hopefully, rescued the children imprisoned inside the windmill), Bella Sunbane and Offalia Wormwiggle, Lady Wachter leads her cultists in creating an enormous binding circle that binds the **night hags** to the Material Plane, allowing the players and Victor to destroy them.
 
-If the players fail to obtain Lady Wachter’s aid and instead elect to bargain with Morgantha for a loan of her heartstone, Morgantha agrees to lend it to the players on the condition that the players promise to later deliver a *soul leech* to the desk of Strahd’s chamberlain, Rahadin, whose twisted soul Morgantha craves. As collateral, Morgantha takes the players’ dreams, preventing the players from gaining the benefits of a long rest if they fail to fulfill Morgantha’s request within the next thirteen days.
+If the players fail to obtain Lady Wachter’s aid and instead elect to bargain with Morgantha for a loan of her heartstone, Morgantha agrees to lend it to the players on the condition that the players promise to later deliver a *soul leech* to the desk of Strahd’s chamberlain, Rahadin, whose twisted soul Morgantha craves. As collateral, Morgantha takes the players’ dreams, preventing the players from gaining the benefits of a long rest if they fail to fulfill Morgantha’s request within the next fourteen days.
 
 Should the players successfully obtain a heartstone through assault or negotiation, Victor sends the group—and Lady Wachter, if she is present—into the Ethereal Plane to perform the ritual and defend Stella’s spirits from a tide of ravenous spirits intent on taking her soulless body for their own. The horde, however, is not alone, and their leader—a sadistic **gallows speaker** dominated by the spirit of Leo Dilisnya—bears an ancient enmity for the house of Wachter...
 
@@ -399,9 +399,7 @@ As such, he'll need to conserve his strength—and, specifically, his 5th- and 4
 > 
 > <hr>
 >
-> The area within the cloud of fog is heavily obscured. If the players investigate, they find that a five-foot-diameter stone of smooth, black onyx is half-buried at the center of the circle. The stone has no visible marks or symbols upon its surface, and is impervious to all damage and attempts to move it.
->
-> One minute after the players enter the cloud of fog, their presence draws the attention of four **vampiric mists** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 250</span>). The mists swirl about the players lazily for three rounds, after which one mist attempts to use a single ***life drain*** attack on the nearest player, like a shark inquisitively nipping its prey. If the players remain within the fog, all of the vampiric mists attack the following round.
+> The area within the cloud of fog is heavily obscured. If the players enter the cloud of fog, after one minute their presence draws the attention of four **vampiric mists** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 250</span>). The mists swirl about the players lazily for three rounds, after which one mist attempts to use a single ***life drain*** attack on the nearest player, like a shark inquisitively nipping its prey. If the players remain within the fog, all of the vampiric mists attack the following round.
 ## H7a. Raiding the Windmill
 The players can obtain the hags' true names by retrieving the contract from the locked stone compartment in the millstone in <span class="citation">O2. Bone Mill (p. 127)</span>. 
 
@@ -585,7 +583,7 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Bestow Curse (Offalia Only).</em></strong> Offalia casts <em>bestow curse</em> with a range of up to 30 feet. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
 <p><strong><em>Hold Person (Morgantha Only).</em></strong> Morgantha casts <em>hold person</em> at 3rd level. A target takes an additional 5 (2d4) necrotic damage if it fails the saving throw, or half damage on a success.</p>
 <p><strong><em>Lightning Bolt (Morgantha Only, Recharge 5-6).</em></strong> Morgantha casts <em>lightning bolt</em>.</p>
-<p><strong><em>Claws (Any).</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, reach 5 ft., one target. <em>Hit:</em> 13 (2d8 + 4) slashing damage.
+<p><strong><em>Claws (Any).</em></strong> <em>Melee Weapon Attack:</em> +9 to hit, reach 5 ft., one target. <em>Hit:</em> 13 (2d8 + 4) slashing damage.
 <h3>Reactions</h3>
 <p><strong><em>Spectral Shadows (Bella Only).</em></strong> <em>1st-level illusion</em>, self, components V S, instantaneous. <em>Effect:</em> In response to being hit by an attack, Bella can use her reaction to briefly conjure two illusory duplicates in her space. The attacker must roll a d6, hitting Bella on a 5 or 6 and hitting a duplicate otherwise.</p>
 <p><strong><em>Maniacal Mirth (Offalia Only).</em></strong> <em>1st-level enchantment</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em> In response to taking damage from a creature that Offalia can see within range, Offalia can use her reaction to force that creature to make a DC 17 Wisdom saving throw. On a failure, the creature falls into fits of laughter, falling prone and becoming incapacitated and unable to stand up until the end of the creature's next turn, or until it takes damage.</p>
@@ -667,12 +665,28 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Absorb Elements (Any).</em></strong> In response to taking acid, cold, fire, lightning, or thunder damage, the hag uses her reaction to cast <em>absorb elements</em>.</p>
 </div>
 
-> [!combat]- **Balancing the Hags**
-> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 5th-level players, a CR 6 ally (Victor Vallakovich), and a CR 1 ally (Majesto), and will consume approximately 34% of their total maximum hit points for the first phase and 58% for the second phase (for a total of 92% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Hags**  
+> **Combat Level**: Bruising (first phase), Bruising (second phase)
+> **Expected Character Level**: 5
+> **Allies:** Majesto (CR 1), Victor Vallakovich (CR 6)
+> **Expected HP Consumption:** 34% (first phase), 58% (second phase), for a total of 92%
 > 
-> * ***Three Players.*** Reduce the hags’ hit points to 156 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow*** ***curse*** bonus action to 5 (2d4) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) fire damage; their ***withering rot*** action to 10 (3d6) damage; their Melf’s Acid Arrow action to 7 (2d6) damage and 3 (1d6) the next turn; their ***crown*** ***of*** ***madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 4 (1d8) damage; and their ***lightning*** ***bolt*** bonus action to 21 (8d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 7 (2d6) damage; their ***bite*** attack to 12 (2d6+5) damage; their ***tail*** and ***gore*** attacks to 10 (2d4+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
-> * ***Four Players.*** Reduce the hags’ hit points to 183 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 6 (1d12) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) damage; their ***withering rot*** action to 10 (3d6) damage; their ***Melf’s Acid Arrow*** action to 9 (2d8) damage and 4 (1d8) the next turn; their ***crown of madness***, ***phantasmal force***, ***cause fear***, and ***hold person*** bonus actions to 4 (1d8) damage; and their ***lightning bolt*** bonus action to 25 (10d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 9 (2d8) damage; their ***bite*** attack to 16 (2d8+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
-> * ***Six Players.*** Increase the hags’ hit points to 237 in each phase. For their first phase, increase: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 7 (2d6) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 9 (2d10) damage; their ***withering rot*** action to 15 (6d4) damage; their ***crown*** ***of madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 6 (1d12) damage; and their ***lightning*** ***bolt*** bonus action to 32 (13d4) damage. For their second phase, increase: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s*** ***rebuke*** reaction to 11 (2d12) damage; their ***bite*** attack to 18 (2d12+5) damage; their ***tail*** and ***gore*** attacks to 16 (2d10+5) damage; and their ***tail swipe, enervating ring***, and ***inflict nightmares*** bonus actions to 9 (2d10) damage.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Bella | 1 | 1 | 1 | 1 |
+> | Morgantha | 1 | 1 | 1 | 1 |
+> | Offalia | 1 | 1 | 1 | 1 |
+>
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce the hags’ hit points to 156 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow*** ***curse*** bonus action to 5 (2d4) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) fire damage; their ***withering rot*** action to 10 (3d6) damage; their Melf’s Acid Arrow action to 7 (2d6) damage and 3 (1d6) the next turn; their ***crown*** ***of*** ***madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 4 (1d8) damage; and their ***lightning*** ***bolt*** bonus action to 21 (8d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 7 (2d6) damage; their ***bite*** attack to 12 (2d6+5) damage; their ***tail*** and ***gore*** attacks to 10 (2d4+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage. |
+> | 4 | Reduce the hags’ hit points to 183 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 6 (1d12) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) damage; their ***withering rot*** action to 10 (3d6) damage; their ***Melf’s Acid Arrow*** action to 9 (2d8) damage and 4 (1d8) the next turn; their ***crown of madness***, ***phantasmal force***, ***cause fear***, and ***hold person*** bonus actions to 4 (1d8) damage; and their ***lightning bolt*** bonus action to 25 (10d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 9 (2d8) damage; their ***bite*** attack to 16 (2d8+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage. |
+> | 6 | Increase the hags’ hit points to 237 in each phase. For their first phase, increase: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 7 (2d6) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 9 (2d10) damage; their ***withering rot*** action to 15 (6d4) damage; their ***crown*** ***of madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 6 (1d12) damage; and their ***lightning*** ***bolt*** bonus action to 32 (13d4) damage. For their second phase, increase: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s*** ***rebuke*** reaction to 11 (2d12) damage; their ***bite*** attack to 18 (2d12+5) damage; their ***tail*** and ***gore*** attacks to 16 (2d10+5) damage; and their ***tail swipe, enervating ring***, and ***inflict nightmares*** bonus actions to 9 (2d10) damage. |
 
 > [!design]- **Design Note: Innate Spellcasting**
 > Multiple spellcasters in this guide, including the hags of Old Bonegrinder, have had spell slots replaced with at-will abilities. This change has been made to simplify the process of controlling these characters in battle. However, this is an intentional abstraction made solely for the sake of combat, which is guaranteed to end after a limited number of turns. This change does not indicate that these spells can be cast an unlimited number of times outside of combat.
@@ -727,7 +741,7 @@ Before the binding circle is lowered, the players can also demand that Morgantha
 
 If Morgantha’s request for parley is denied, the coven fights to the death.
 ## H7c. Escape From Old Bonegrinder
-If the hags knock the players unconscious, the players awaken 1d4 + 4 hours after their defeat in <span class="citation">O4. Domed Attic (p. 128)</span>. They have been gagged and bound using ragged strips torn from bed sheets and dirty clothing, which have the statistics of *hempen rope*. The two strongest members of the party have been infected with cackle fever and poisoned with *pale tincture*, respectively.
+If the hags knock the players unconscious, the players awaken 1d4 + 1 hours after their defeat in <span class="citation">O4. Domed Attic (p. 128)</span>. They have been gagged and bound using ragged strips torn from bed sheets and dirty clothing, which have the statistics of *hempen rope*. The two strongest members of the party have been infected with cackle fever and poisoned with *pale tincture*, respectively.
 
 While the players’ legs are bound, they are **restrained.** While the players’ hands are bound, they move at half speed, have disadvantage on weapon attacks, and can’t use somatic components for spells. 
 
@@ -956,12 +970,19 @@ The specters drift through the air toward Stella, reaching out to seize her as t
 
 Victor’s panicked eyes flash toward the players, and Stella draws in toward herself, fear evident upon her face. Erasmus and [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] (if present) attack the specters as soon as they draw within 15 feet of Stella’s spirit, urging the players to join them.
 
-> [!combat]- **Balancing the Specters**
-> Due to the specters fleeing, this is a **mild** combat encounters against a party of five 5th-level players, a CR 1 ally (Majesto), and two CR 2 allies (Erasmus van Richten, Fiona Wachter), and will consume approximately 5% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Specters**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 5
+> **Allies:** Majesto (CR 1), Erasmus van Richten (CR 2), Fiona Wachter (CR 2)
+> **Expected HP Consumption:** 5%
 > 
-> * ***Three Players.*** Reduce the number of specters to four.
-> * ***Four Players.*** Reduce the number of specters to four.
-> * ***Six Players.*** Increase the number of specters to six.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Specter | 4 | 4 | 5 | 6 |
+>
+
 
 ***Lady Wachter.*** Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
 
@@ -1155,12 +1176,26 @@ When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. S
 <p><strong><em>Haunting Echoes.</em></strong> In response to taking damage from a creature, the gallows speaker forces that creature to make a DC 16 Wisdom saving throw. On a failure, that creature takes 10 (4d4) psychic damage and has disadvantage on the next attack roll or ability check it makes before the start of its next turn.</p>
 </div>
 
-> [!combat]- **Balancing the Gallows Speaker**
-> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 5th-level players, a CR 6 ally (Victor Vallakovich), a CR 1 ally (Majesto), and a CR 2 ally (Fiona Wachter), and will each consume approximately 28% of their total maximum hit points (for a total of 56% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Combat - The Gallows Speaker**  
+> **Combat Level**: Bruising (first phase), Bruising (second phase)
+> **Expected Character Level**: 5
+> **Allies:** Majesto (CR 1), Fiona Wachter (CR 2), Victor Vallakovich (CR 6)
+> **Expected HP Consumption:** 28% (first phase), 28% (second phase), for a total of 56%
 > 
-> * ***Three Players.*** Reduce Leo’s hp to 111 in each phase. For his first phase, reduce his foretelling touch attack to to 11 (2d8+2) damage, his will-o’-wisp attack to 10 (3d6) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 10 (4d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 5 (1d6+2) piercing and 10 (4d4) necrotic damage, his grasp of the grave attack to 14 (4d6) initial damage and 7 (2d6) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes to 7 (3d4) damage.
-> * ***Four Players.*** Reduce Leo’s hp to 134 in each phase. For his first phase, reduce his foretelling touch attack to to 13 (2d8+4) damage, his will-o’-wisp attack to 11 (2d10) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 12 (5d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 6 (1d4+4) piercing and 12 (5d4) necrotic damage, his grasp of the grave attack to 15 (6d4) initial damage and 7 (3d4) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes reaction to 9 (2d8) damage.
->  * ***Six Players.*** Increase Leo’s hp to 180 in each phase. For his first phase, increase his foretelling touch attack to to 17 (2d12+4) damage, his will-o’-wisp attack to 15 (6d4) damage, and his wisplight flare bonus action to 16 (3d10) damage. For his second phase, increase his Ba’al Verzi dagger attack to 8 (1d8+4) piercing and 16 (3d10) necrotic damage, his grasp of the grave attack to 20 (8d4) initial damage and 10 (4d4) continual damage, his shrieking souls bonus action to 10 (4d4) damage, and his haunting echoes to 11 (2d10) damage.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Gallows Speaker | 1 | 1 | 1 | 1 |
+>
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce Leo’s hp to 111 in each phase. For his first phase, reduce his foretelling touch attack to to 11 (2d8+2) damage, his will-o’-wisp attack to 10 (3d6) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 10 (4d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 5 (1d6+2) piercing and 10 (4d4) necrotic damage, his grasp of the grave attack to 14 (4d6) initial damage and 7 (2d6) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes to 7 (3d4) damage. |
+> | 4 | Reduce Leo’s hp to 134 in each phase. For his first phase, reduce his foretelling touch attack to to 13 (2d8+4) damage, his will-o’-wisp attack to 11 (2d10) damage, his lash of souls bonus action to 7 (2d6) damage, and his wisplight flare bonus action to 12 (5d4) damage. For his second phase, reduce his Ba’al Verzi dagger attack to 6 (1d4+4) piercing and 12 (5d4) necrotic damage, his grasp of the grave attack to 15 (6d4) initial damage and 7 (3d4) continual damage, his shrieking souls bonus action to 7 (2d6) damage, and his haunting echoes reaction to 9 (2d8) damage. |
+> | 6 | Increase Leo’s hp to 180 in each phase. For his first phase, increase his foretelling touch attack to to 17 (2d12+4) damage, his will-o’-wisp attack to 15 (6d4) damage, and his wisplight flare bonus action to 16 (3d10) damage. For his second phase, increase his Ba’al Verzi dagger attack to 8 (1d8+4) piercing and 16 (3d10) necrotic damage, his grasp of the grave attack to 20 (8d4) initial damage and 10 (4d4) continual damage, his shrieking souls bonus action to 10 (4d4) damage, and his haunting echoes to 11 (2d10) damage. |
 
 
 ### Return to the Material Plane
