@@ -1,22 +1,24 @@
 # Quest Log
 ## Current
-* Rescure Gertruda from Castle Ravenloft. 
+
 * Retrieve the Clockwork Man in Castle Ravenloft for Blinsky. 
-	* Reward on return: The monkey. 
+	* Reward: Piccolo the monkey. 
 * Retrieve the Huntresses' Spear in King Dostrons' tomb in Castle Ravenloft. 
-	* Reward: Entry to Soldav
-	* Starts quest "Reconsecrate the Huntresses' Spear". 
-* Retrieve the Icon of Ravenloft from Castle Ravenloft. 
-	* Necessary to heal The Abbot. 
-* Deliver news of Cyrus Belview in Castle Ravenloft to his family. 
+	* Reward: Entry to Soldav, necessary to get to the Amber Temple
+* Retrieve the Icon of Dawn's Grace from Castle Ravenloft. 
+	* Reward: Ability to cleanse the Abbot of his madness. 
+* Deliver news of Cyrus Belview to his family. 
+	* Reward: ???
 * Rescue Emil Toranescu from Castle Ravenloft. 
-	* Return him to Zuleika outside Krezk to break their oaths to her. 
-* Retrieve Argynvosts' Skull in Castle Ravenloft. 
-* Defeat Strahd von Zarovich
-	* Find the Tome of Strahd (acquired, read). 
-	* Find their foretold ally against Strahd at the Abbey of St. Markovia (Ezmerelda, recruited).  
-	* Find the Symbol of Ravenkind (acquired). 
+	* Reward: Break Zuleika's oath taken in exchange for the Symbol of Ravenkind. 
+* Return Argynvosts' skull from Castle Ravenloft to his tomb in Argynvostholt. 
+	* Reward: Ability to light the beacon of Agrynvostholt. Additional knowledge of the Amber Temple.  
+* Find the prophesized items foretold by Madam Eva. 
+	* Find the Tome of Strahd: DONE. 
+	* Find their foretold ally against Strahd: DONE.  
+	* Find the Symbol of Ravenkind: DONE. 
 	* Find the Sunsword. 
+* Defeat Strahd von Zarovich. 
 ## Completed
 * Survive Death House
 	* Did not lay Walter to rest. 
@@ -37,6 +39,8 @@
 * Travelled to Krezk. 
 * Meet the Abbot at St. Markovia's 
 * Rescue Ilya Krezkov from the Werewolf Den. 
+* Attend dinner with Strahd. 
+* Rescue Gertruda from Castle Ravenloft. 
 # Fortune Reading
 Madam Eva's reading foretold 5 things for the party. 
 1. Knowledge of the ancient will help them understand their enemy - "I see the ancient foe of an old and noble house. The lost soul will lead you to him."
@@ -60,3 +64,8 @@ The party did not see the Skeletal Rider (Dalvan Olensky) on their return. This 
 
 C9. Old Bonegrinder
 The party discovered Morgantha was a Fiend using Thonks' Divine Sense. He was able to piece together this is likely a coven of Hags before the party fled. 
+
+Should have maintained a stricter gothic-doom-esque tone from the beginning of the campaign.
+* Barovian visual effects as described in the module. 
+* Forced heroic stat rolls for each players first character. 
+* Narration a-la Darkest Dungeon

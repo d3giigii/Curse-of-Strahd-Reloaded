@@ -32,5 +32,6 @@ Act III Milestones Completed:
 | Fel       | 58  | 19  | 14            | 14               | 13         | 0           |
 | Igor      | 63  | 19  | 16            | 11               | 16         | 0           |
 | Thonk     | 64  | 20  | 9             | 9                | 9          | 0           |
+| Thaedrin  | 52  | 16  | 15            | 11               | 12         | 0           |
 | Ezmerelda |     |     |               |                  |            |             |
 | Ireena    |     |     | 15            | 14               | 18         |             |
