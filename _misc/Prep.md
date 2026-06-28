@@ -1,4 +1,185 @@
-# 12 JAN 2026
+
+# 31 MAY 2026
+* Resuming 20 Neyavr, afternoon
+* REMINDERS
+	* Goals in the Amber Temple
+		* Find your fated weapon against Strahd, the Sunsword, hidden here as foretold by Madam Eva
+		* Find knowledge of how to contact the Ladies Three and return to Burebis
+		* Find the two missing Mountain Folk
+	* RETCONS
+		* Igor would have detected magic in the room with the feast and in the pouch from the chest with the false bottom. 
+		* The door to the vault with the broken sarcophagus was open. The roll used to open them can be applied to the set of amber doors nearby. 
+# 24 MAY 2026
+# 17 MAY 2026
+
+# 10 MAY 2026
+Resuming 19 Neyavr, brunch'ish
+* Reminders
+	* Igor still -2 to D20 rolls
+	* Removed Fly and Suggestion from Kasimir spellbook. 
+* 
+# 3 MAY 2026
+Resuming 19 Neyavr, morning
+* Reminders
+	* Added the sole Amber Shard and Tome of Strahd to party inventory
+	* Igor still has -2 to all D20 rolls from being revived. 
+	* Thaedrin tremorsense? 
+* R4h. The Mountain Crossroad
+	* Party will decide to outrun the avalanche skipping to R5a. The Twin Falls, or
+	* will enter The Bodaks' Lair
+* Twin Falls encounter
+* Soldav
+* Burebis
+# 26 APR 2026
+Resuming 19 Neyavr, morning
+* Reminders
+	* Amber shard added to party inventory. 
+* Party will travel from the Mountain Folk Cave to the Tsolenka Pass Gatehouse 
+	* Vrock encounter (maybe, Amulet of Knights' Passage or DC 16 dispel on Curtain of Green Flame)
+* R4g. The Rider on the Bridge
+* R4h. The Mountain Crossroad
+	* Kalaris chase (maybe)
+	* The Avalance
+		* The Bodaks' Lair, Ice Caves, Cave of Daggers, and the Frozen Lake, or
+		* Soldav, R5a. The Twin Falls
+* R5a. The Twin Falls
+	* Puzzle (web, fang, feather)
+	* Demon attack
+# 12 APR 2026
+Resuming 18 Neyavr
+* Party will journey from the Raven River Crossroads to the Tsolenka Pass Gatehouse
+	* The Monument encounter
+	* The Blizzard encounter
+		* Seeking Shelter
+		* Proceeding Through the Blizzard
+* Party will make it to The Gatehouse
+	* Possible Vrock encounter
+* The Tyrant's Second Trial
+	* Meet at The Gatehouse, or
+	* The Mountain Folk Cave
+	* Strahd's Questions
+	* Strahd's Challenge
+	* Strahd's Penalty
+		* Fade to black, party member dead, others at half-hp, Strahd departs. 
+* The Rider on the Bridge
+* The Mountain Crossroad
+	* Possible Kalaris chase
+	* The Avalanche
+		* The Bodaks' Lair, or 
+		* Soldav, R5a. The Twin Falls
+# 29 MAR 2026
+Resuming 18 Neyavr
+* Finish combat encounter with the Forest Folk at the Raven River Crossroads. 
+* Party will journey from the Raven River Crossroads to the Tsolenka Pass Gatehouse
+	* The Monument encounter
+	* The Blizzard encounter
+		* Seeking Shelter
+		* Proceeding Through the Blizzard
+* Party will make it to The Gatehouse
+	* Possible Vrock encounter
+* The Tyrant's Second Trial
+	* Meet at The Gatehouse, or
+	* The Mountain Folk Cave
+	* Strahd's Questions
+	* Strahd's Challenge
+	* Strahd's Penalty
+		* Fade to black, party member dead, others at half-hp, Strahd departs. 
+* The Rider on the Bridge
+* The Mountain Crossroad
+	* Possible Kalaris chase
+	* The Avalanche
+		* The Bodaks' Lair, or 
+		* Soldav, R5a. The Twin Falls
+# 22 MAR 2026
+Resuming 17 Neyavr
+* Finish combat with Strahd
+* Long rest into 18 Neyavr
+* Begin travel in the morning with Kasimir toward Raven River Crossroads 
+	* four and one-quarter miles long, takes one hour twenty-five minutes
+	* Kasimir will tell his story once the party reaches the Old Svalich Road
+	* Druid encounter
+* Travel from Raven River Crossroads to Tsolenka Pass Gatehouse
+	* Nine miles long, takes three hours
+# 15 MAR 2026
+Resuming 17 Neyavr, night
+* PRE-GAME REMINDER TO PLAYERS: 
+	* The parties actions so far in the campaign have not gone unnoticed by Strahd. 
+	* With his formal reintroduction, his demeanor seems to have changed toward them. 
+		* Formerly gentlemanly, polished, and poised albeit sociopathic. Think Hannibal Lecter (from Silence of the Lambs). 
+		* Now more harsh, stern, and cruel (think Tywin Lannister, Severus Snape, or Omni-Man). 
+* Strahd will explain the rules of his game to the party
+	* Remind party they gain one hit die of max-hp per Long Rest from a vampires bite. 
+* TRAVEL
+	* Vistani Camp to Raven River Crossroads is four and one-quarter miles and takes one hour and twenty-five minutes. 
+	* Raven River Crossroads to Tsolenka Pass Gatehouse is nine miles long and takes three hours. 
+# 8 MAR 2026
+Resuming 16 Neyavr, dusk
+# 1 MAR 2026
+* Resuming 16 Neyavr, dusk, stormy weather
+* Reminders
+	* Vladimirs belongings remain on the ground. 
+		* Greatsword (+2)
+		* Holy Symbol (of the Morninglord, made of platinum, 250 gp)
+		* Rusted half-plate armor (useless)
+* After the beacon is lit: all who oppose Strahd in the valley gain the benefit of a Blessing of Protection
+* 
+# 15 FEB 2026
+Resuming 16 Neyavr, morning
+* Resuming immediately after pausing last session. 
+* **St. Markovia's Gratitude**
+	* Water of the White Sun magic item. 
+* Party will engage with scene **The Revenant's Warning**
+	* The revenant will arrive at the gates of Krezk shortly after the party defeats the Abbot. 
+	* A guard (Harkus) will be dispatched and locate the players to bring them to the gate after they receive the Water of the White Sun. 
+* 
+* **Pack Attack** Warning
+	* Kiril knows the party took the Holy Symbol of Ravenkind and freed Ilya and Zuleika. 
+	* At nightfall Kiril and the pack travel to Baba Lysaga who scries the parties location, and then travel to that location to find the party. 
+	* Emil will arrive just over one hour in advance to warn the party that the pack is on the hunt for them, and will offer to help them during their encounter. 
+* **The Pack Arrives**
+	* See The Pack Arrives
+* **Kiril's Challenge**
+	* See Kiril's Challenge
+* 
+# 8 FEB 2026
+Resuming 16 Neyavr, morning
+* Resuming immediately after pausing last session. 
+* Party will continue to combat the Abbot through his first phase. 
+* Party will combat the Abbot in his second phase. 
+* Party will engage with scene **The Abbot's Redemption**
+	* Most of the party will notice anything requiring a passive Perception or Investigation. 	
+* Hopefully they will be able to redeem the Abbot, and engage with scene **The Abbot's Penance** 
+	* Ithuriel's Feather magic item. 
+* Then **St. Markovia's Gratitude**
+	* Water of the White Sun magic item. 
+* After finishing things at the abbey, Clovin will bring the party to the Wings of Flying. 
+* Party will engage with scene **The Revenant's Warning**
+	* The revenant will arrive at the gates of Krezk shortly after the party defeats the Abbot. 
+	* A guard will be dispatched and locate the players to bring them to the gate after they receive the Water of the White Sun. 
+* **Pack Attack** Warning
+	* Kiril knows the party took the Holy Symbol of Ravenkind and freed Ilya and Zuleika. 
+	* At nightfall Kiril and the pack travel to Baba Lysaga who scries the parties location, and then travel to that location to find the party. 
+	* Emil will arrive just over one hour in advance to warn the party that the pack is on the hunt for them, and will offer to help them during their encounter. 
+# 1 FEB 2026
+Resuming 15 Neyavr, night
+* Resuming immediately after pausing the last session. 
+* Party has just escaped to Krezk from Castle Ravenloft via the Brazier Room. 
+* Party will find themselves in the Shrine of the White Sun. A guard standing nearby will direct them to the Burgormasters home. 
+* Party will likely head to the Burgormasters home. 
+	* Emil was sent through well before the party, and Emil and Dmitri had met. Dmitri spent time questioning Emil about how he entered the town, why he is there, etc... Igor had Edgar deliver a message saying "he's cool" essentially. So what happened in the interim? 
+	* Party finds Emil at the Krezkovs, Dmitiri has already interrogated Emil, listened to his story, and sat for the better part of an hour. 
+	* Once the party arrives: 
+		* "I hoped you would arrive soon. The wolf that stole my sister speaks tall tales. What happened tonight?"
+		* "You have done my family a great service, and your words carry great weight in Krezk for it. The wolf may leave Krezk, or can sleep outside tonight. My home remains open to you all." 
+* Morning after: See Q2a. A Dark Omen
+* To the Abbot: See Q3a. Return to the Abbey
+* Abbot Encounter: See Q3b. Confronting the Abbot
+* Revenant encounter
+* To Argynvostholt
+* Argynvostholt
+
+“You vouched for him. I listened.”
+# 18 JAN 2026
 Resuming 15 Neyavr, night
 * Resuming immediately after pausing last session. 
 * Party will finish combat with Rahadin. 
@@ -8,7 +189,6 @@ Resuming 15 Neyavr, night
 	* All enemies alerted to players position. The dead in the catacombs awake. 
 * Party will escape Castle Ravenloft via the Brazier Room. 
 	* May go to a number of locations. Most likely are Krezk or Vallaki. 
-* 
 # 11 JAN 2026
 Resuming 15 Neyavr, night
 * Reminders
