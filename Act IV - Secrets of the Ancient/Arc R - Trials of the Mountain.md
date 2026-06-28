@@ -947,11 +947,7 @@ In combat, the wolves fight in pairs, hoping to use their ***pack tactics*** in 
 ## R4e. The Gatehouse
 The journey from the crevasse to the gatehouse is one and three-quarter miles long. It takes one hour and ten minutes if the players are traveling the day after the blizzard (due to the high snow banks), and two hours if the players are traveling during the blizzard.
 
-The players’ arrival at the gatehouse is largely as described in <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>, <span class="citation">T2. Demon Statues (p. 157)</span>, and <span class="citation">T3. Curtain of Green Flame (p. 157)</span>. However, add the following sentence to the end of the description of <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>:
-
-<div class="description">
-<p>The tower perches upon the lip of an overhanging cliff, which juts out across the churning fog far below.</p>
-</div>
+The players’ arrival at the gatehouse is largely as described in <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>, <span class="citation">T2. Demon Statues (p. 157)</span>, and <span class="citation">T3. Curtain of Green Flame (p. 157)</span>. 
 
 In addition, increase the number of petrified vrocks to four. (If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypass the gatehouse by means of a rope.)
 
@@ -969,7 +965,93 @@ In addition, increase the number of petrified vrocks to four. (If present, Kasim
 
 A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
 
+<div class="description">
+<b>T1. Gatehouse Portcullis</b>
+
+<p>"The shelf of rock on which the mountain road clings grows narrow. To your left, the icy cliffs rise sharply toward dark, rolling clouds. To your right, the ground falls away into a sea of fog. Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic vultures with horned heads. Set in the center of the wall is a closed iron portcullis, behind which burns a curtain of green flame.</p>
+
+<p>On the other side of the dark wall, gripping the mountain’s edge, is a guard tower of white stone topped by golden statues of mighty warriors."</p>
+
+<p>The gatehouse is 30 feet high. The adjoining walls are 20 feet high and lined with stone spikes. If the characters circumvent the gate by flying or climbing over it, the statues on the gatehouse (area T2) animate and attack.</p>
+
+<p>If the characters approach within 10 feet of the portcullis, it shrieks with the sound of metal on metal as it rises on its own. It stays open for 1 minute, then closes.</p>
+</div>
+
+<div class="description">
+<b>T2. Demon Statues</b>
+
+<p>These statues are actually two petrified vrocks. If they are attacked, or if the characters bypass the gatehouse, the vrocks revert to flesh and attack, pursuing prey that flees and fighting until slain.</p>
+
+<p>If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypass the gatehouse by means of a rope.</p>
+
+</div>
+
+<div class="description">
+<b>T3. Curtain of Green Flame</b>
+
+<p>A curtain of green flame fills the eastern archway of the gatehouse. Any creature that enters the curtain for the first time on a turn or starts its turn in the green flame takes 33 (6d10) fire damage.</p>
+
+<p>A successful casting of dispel magic (DC 16) suppresses the curtain for 1 minute. The curtain is also suppressed within an antimagic field.</p>
+</div>
+
 The guard tower of the gatehouse is as described in <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span>, <span class="citation">T5. Guard Tower, Upper Floor (p. 159)</span>, and <span class="citation">T6. Guard Tower Rooftop (p. 159)</span>.
+
+<div class="description">
+<b>T4. Guard Tower, Ground Floor</b>
+
+<p>The tower door is made of ironbound wood and barred from within. A character can force open the door with a successful DC 22 Strength (Athletics) check.</p>
+
+<p>"A cold hearth stands across from the door, the wind howling down its chimney. A stone staircase is on the south wall. Three windows look out over a foggy sea."</p>
+
+<p>The stairs climb 20 feet to area T5.</p>
+
+<p><b>Teleport Destination.</b> Characters who teleport to this location from area K78 in Castle Ravenloft arrive at the point marked X on the map.</p>
+</div>
+
+<div class="description">
+<b>T5. Guard Tower, Upper Floor</b>
+
+<p>"The upper level of the tower is an icebox with windows set in almost every wall. A rusted iron ladder bolted to the floor and ceiling leads up to a wooden trapdoor. Mounted above the stone hearth is a dire wolf’s head. The wind coming down the chimney howls in its stead."</p>
+
+<p>The trapdoor in the ceiling pushes open with a squeal, revealing the rooftop (area T6) and the stormy gray sky.</p>
+</div>
+
+<div class="description">
+<b>T6. Guard Tower Rooftop</b>
+
+<p>"Ten-foot-tall, gold-plated statues stand atop the battlements, facing outward. Each one depicts a female human knight holding a lance. The cold wind stirs the snow, under which you see human skeletons clad in rusty mail."</p>
+
+<p>The roof is 40 feet high and 540 feet above the misty valley below. A wooden trapdoor in the floor squeals as it is pulled open, revealing area T5 below.</p>
+
+<p>The skeletons are the remains of four guards who held this post long ago. Characters who search the remains find tattered bits of cloth, broken longbows and arrows, rusted blades in ruined sheaths, and rusty chain mail.</p>
+</div>
+
+<div class="description">
+<b>T7. Western Arch</b>
+
+<p>"The snowy pass comes to a gorge spanned by a stone bridge. At each end of the bridge is a thirty-foot-tall, thirty-foot-wide stone arch. Atop each one are two statues of armored knights on horseback with lances, charging toward one another. The wind bites and howls like wolves as it passes through the gorge."</p>
+
+<p>The western arch contains empty guard posts on either side, offering some protection from the wind.</p>
+</div>
+
+<div class="description">
+<b>T8. Stone Bridge</b>
+
+<p>"The low walls that enclose the stone bridge have fallen away in places, but the bridge appears intact. </p>
+
+<p>Five hundred feet below lies the Luna River. The bridge is 10 feet wide and 90 feet long, and safe to cross despite slippery sections.</p>
+</div>
+
+<div class="description">
+<b>T9. Eastern Arch</b>
+
+<p>"One of the statues atop this arch has crumbled, leaving only the hindquarters of the horse intact. The mountain pass continues beyond."</p>
+
+<p>This arch contains two empty guard posts.</p>
+
+<p>Beyond this arch, Tsolenka Pass hugs the mountainside for three miles before branching north and south. The northern branch leads to the Amber Temple. The southern branch continues to wrap around Mount Ghakis until it ends at the deadly fog that surrounds Barovia.</p>
+</div>
+
 ## R4f. The Tyrant’s Second Trial
 No matter where the players choose to rest, the blizzard comes to an end shortly after they begin their long rest. Read:
 
@@ -1227,6 +1309,32 @@ When the players awaken the following morning, the weather is crisp and cold, wi
 
 The bridge beyond the gatehouse is largely as described in <span class="citation">T7. Western Arch (p. 159)</span>, <span class="citation">T8. Stone Bridge (p. 159)</span>, and <span class="citation">T9. Eastern Arch (p. 159)</span>. However, remove the description of the black-cloaked rider from the text of <span class="citation">T8. Stone Bridge (p. 159)</span>.
 
+<div class="description">
+<b>T7. Western Arch</b>
+
+<p>"The snowy pass comes to a gorge spanned by a stone bridge. At each end of the bridge is a thirty-foot-tall, thirty-foot-wide stone arch. Atop each one are two statues of armored knights on horseback with lances, charging toward one another. The wind bites and howls like wolves as it passes through the gorge."</p>
+
+<p>The western arch contains empty guard posts on either side, offering some protection from the wind.</p>
+</div>
+
+<div class="description">
+<b>T8. Stone Bridge</b>
+
+<p>"The low walls that enclose the stone bridge have fallen away in places, but the bridge appears intact. </p>
+
+<p>Five hundred feet below lies the Luna River. The bridge is 10 feet wide and 90 feet long, and safe to cross despite slippery sections.</p>
+</div>
+
+<div class="description">
+<b>T9. Eastern Arch</b>
+
+<p>"One of the statues atop this arch has crumbled, leaving only the hindquarters of the horse intact. The mountain pass continues beyond."</p>
+
+<p>This arch contains two empty guard posts.</p>
+
+<p>Beyond this arch, Tsolenka Pass hugs the mountainside for three miles before branching north and south. The northern branch leads to the Amber Temple. The southern branch continues to wrap around Mount Ghakis until it ends at the deadly fog that surrounds Barovia.</p>
+</div>
+
 As the players depart the bridge, read:
 
 <div class="description">
@@ -1353,14 +1461,14 @@ The avalanche begins eight hundred feet above the players. At initiative count 0
 
 If the players flee the avalanche on foot, run their escape from the avalanche as described in <span class="citation">Chases (<em>Dungeon Master’s Guide</em>, (p. 252)</span>, using the following **Alpine Chase Complications** table:
 
-| d20 | Complication |
-| :---: | :-----|
-|1|Your foot cracks through a layer of thin ice and is caught beneath a heavy rock. Make a DC 14 Dexterity saving throw. On a failure, your speed is reduced to 0. As an action, you or another creature can make a DC 14 Strength check, freeing you on a success.|
-|2-3| A patch of loose gravel under the snow causes you to lose your footing. Make a DC 15 Dexterity saving throw or fall prone.|
-|4-5|Loose rocks from the cliffs above crash onto the path. Make a DC 14 Dexterity saving throw or take 2d6 bludgeoning damage and be knocked prone.|
-|6-7|A hidden ice patch has made the ground beneath you slick. Make a DC 13 Dexterity saving throw or fall prone. If the save fails by 5 or more, you slide across the edge of the cliff and must make an additional DC 5 Dexterity saving throw, catching yourself on the edge of the cliff on a success. On a failure, you fall from the cliff and land prone on a precarious icy ledge ten feet below. (Due to its location, the ledge is buffeted by <span class="citation">strong winds (<em>Dungeon Master’s Guide</em>, p. 110)</span>.|
-|8-10| A powerful gust of wind and snow momentarily blinds you. Make a DC 12 Constitution saving throw or be blinded and slowed until the end of your next turn. (While slowed, a creature must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.)|
-|11-20|No complication.|
+|  d20  | Complication                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   1   | Your foot cracks through a layer of thin ice and is caught beneath a heavy rock. Make a DC 14 Dexterity saving throw. On a failure, your speed is reduced to 0. As an action, you or another creature can make a DC 14 Strength check, freeing you on a success.                                                                                                                                                                                                                                                                          |
+|  2-3  | A patch of loose gravel under the snow causes you to lose your footing. Make a DC 15 Dexterity saving throw or fall prone.                                                                                                                                                                                                                                                                                                                                                                                                                |
+|  4-5  | Loose rocks from the cliffs above crash onto the path. Make a DC 14 Dexterity saving throw or take 2d6 bludgeoning damage and be knocked prone.                                                                                                                                                                                                                                                                                                                                                                                           |
+|  6-7  | A hidden ice patch has made the ground beneath you slick. Make a DC 13 Dexterity saving throw or fall prone. If the save fails by 5 or more, you slide across the edge of the cliff and must make an additional DC 5 Dexterity saving throw, catching yourself on the edge of the cliff on a success. On a failure, you fall from the cliff and land prone on a precarious icy ledge ten feet below. (Due to its location, the ledge is buffeted by <span class="citation">strong winds (<em>Dungeon Master’s Guide</em>, p. 110)</span>. |
+| 8-10  | A powerful gust of wind and snow momentarily blinds you. Make a DC 12 Constitution saving throw or be blinded and slowed until the end of your next turn. (While slowed, a creature must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.)                                                                                                                                                                             |
+| 11-20 | No complication.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 > [!warning]+ **Rolling Complications**
 > Remember that players roll complications at the end of their turns, and that a rolled complication affects the next player in initiative order—not the player who rolled it.
@@ -1419,7 +1527,7 @@ If the players enter the cave, read:
 > When dormant, the bodak that was once Cassius dwells in [[#The Western Nest]], while the bodak that was once Deirdre dwells in [[#The Room of Regret]].
 >
 > If the siblings are active, their location constantly shifts as they attempt to corner the players. For example, their locations might change as follows as the players progress through the cavern:
-> * When the players first enter[[#The Junction]], Cassius peers into [[#The Trash Heap]], while Deirdre enters [[#The Amber Shrine]].
+> * When the players first enter [[#The Junction]], Cassius peers into [[#The Trash Heap]], while Deirdre enters [[#The Amber Shrine]].
 > * If the players proceed to [[#The Room of Regret]] or [[#The Trash Heap]], Cassius returns to [[#The Western Nest]] and Deirdre enters [[#The Junction]], cutting off the players’ exit. If the players then attempt to ascend [[#The Trash Heap]], the bodaks attack. Otherwise, if the players subsequently proceed to [[#The Western Nest]], Cassius retreats to [[#The Room of Regret]], while Deirdre advances to [[#The Trash Heap]].
 > * If the players proceed to [[#The Amber Shrine]], Deirdre returns to [[#The Eastern Nest]] and Cassius enters [[#The Junction]], cutting off the players’ exit. If the players subsequently proceed to [[#The Eastern Nest]], Deirdre retreats to [[#The Room of Regret]], while Cassius advances to [[#The Amber Shrine]].
 >
@@ -1467,7 +1575,6 @@ If the players enter the cave, read:
 > | 3 | Reduce the hit points of each **bodak** to 103. Reduce the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 5 (2d4) necrotic damage. Reduce the damage of their ***death gaze*** to 12 (5d4) psychic damage. Reduce the damage of their ***withering gaze*** to 17 (5d6) necrotic damage. |
 > | 4 | Reduce the hit points of each **bodak** to 119. Reduce the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 7 (2d6) necrotic damage. Reduce the damage of their ***death gaze*** to 14 (4d6) psychic damage. Reduce the damage of their ***withering gaze*** to 18 (4d8) necrotic damage. |
 > | 6 | Increase the hit points of each **bodak** to 153. Increase the damage of their Fist attack to 4 (1d4 + 2) bludgeoning damage plus 11 (2d10) necrotic damage. Increase the damage of their ***death gaze*** to 18 (4d8) psychic damage. Increase the damage of their ***withering gaze*** to 24 (5d8) necrotic damage. |
-
 
 ### The Junction
 If a player follows the corridor, read:
@@ -1697,12 +1804,12 @@ The gap in [[#R4k. The Ice Caves]] bends around the western wall of the entry ca
 If the players follow the tunnel, read:
 
 <div class="description">
-<p>The tunnel winds nearly a mile east through the mountain, curving faintly through the ice sheet as you tread through the darkness.</p>
+<p>The tunnel winds nearly a mile west through the mountain, curving faintly through the ice sheet as you tread through the darkness.</p>
 <p>Eventually, the tunnel widens further, its walls flanked by tall, hourglass-like ice structures with bulbous bases, where frozen meltwater has formed elongated ice "stalactites" and "stalagmites" that meet and meld in-between. Not far away, frozen cascades have formed eerie, ghostlike silhouettes, with long, crystalline tendrils hanging from rounded, overhanging "caps."</p>
 <p>Ahead, a ring of swollen icicles mark your entrance to a much larger space. As you pass beneath them, you find the tunnel ends upon a narrow, icy shelf overlooking a vast, cathedral-like ice cavern below.</p>
 <p>Beams of soft, pale light filter in from far above, illuminating hundreds of jagged, tapering ice formations that glisten with radiant, ethereal beauty. An endless array of enormous icicles, ranging from a foot in length to the height of a man, dangle delicately from the ceiling overhead, their darkened reflections shimmering in a thin layer of frigid water that covers the cavern’s floor.</p>
-<p>Ten feet to the left, at the edge of your current perch, a five-foot fallen icicle stands amidst a large patch of hoarfrost—a carpet of lacelike, feathery ice crystals—its sharpened end splitting the frozen earth like a lance through flesh. Forty feet ahead and to the right, an opening to an adjoining chamber stands atop another icy shelf that looms fifteen feet above the floor below.</p>
-<p>One hundred feet ahead, the light illuminates the glittering surface of a fifty-foot frozen lake. Beyond the lake, the pale, gray glow of daylight flickers through a yawning cavern mouth.</p>
+<p>At the edge of your current perch, a five-foot fallen icicle stands amidst a large patch of hoarfrost—a carpet of lacelike, feathery ice crystals—its sharpened end splitting the frozen earth like a lance through flesh. Along the northern side of the carvern, an opening to an adjoining chamber stands atop another icy shelf that looms fifteen feet above the floor below.</p>
+<p>Looking down and one hundred feet ahead, the light illuminates the glittering surface of a fifty-foot frozen lake. Beyond the lake, the pale, gray glow of daylight flickers through a yawning cavern mouth.</p>
 </div>
 
 A player who succeeds on a DC 15 Intelligence (Nature) check recognizes the cave as an icefall cave: a cavern where meltwater refreezes into large, fragile icicles and ice formations that can collapse suddenly, forming a deadly chain-reaction cascade and cave-in if triggered with loud sounds, vibrations, or changes in temperature. (If Kalaris is present, he immediately and breathlessly relays this information to the players in a whisper, warning them to remain quiet in order to avoid setting off the icicles.)
@@ -1792,6 +1899,10 @@ The den contains 3 pp, 107 gp, 389 sp, 780 cp, seven 10-gp azurites, three 50-gp
 </div>
 
 The lake, which fills the entire width of this section of the cave, is covered with <span class="citation">thin ice (<em>Dungeon Master’s Guide</em>, p. 111)</span>, except for the near and far banks, which are bordered by 5 feet of <span class="citation">slippery ice (<em>Dungeon Master’s Guide</em>, p. 110)</span>. All thin ice along the lake’s surface has a weight tolerance of 165 pounds.
+
+> **Thin Ice**: 165 lb. weight tolerance. 
+> **Slippery Ice**: DC 10 Acrobatics or prone. 
+> **Frigid Water**: Can be submerged for CON minutes. DC 10 CON save each minute after. Failure is one level of exhaustion. 
 
 If a player has a passive Wisdom (Perception) score of 15 or greater, add:
 
@@ -1930,7 +2041,7 @@ A player who succeeds on a DC 13 Intelligence (Nature) check can correctly match
 When the players have begun making progress in solving the puzzle of the shrine, but before they’ve come to a solution, read:
 
 <div class="description">
-<p>A deep roar rings out from around the eastern cliffs. A heartbeat later, it’s answered by a chorus of four echoing bellows.</p>
+<p>A deep roar rings out from around the eastern cliffs. A heartbeat later, it’s answered by a chorus of echoing bellows.</p>
 </div>
 
 The players have one round to prepare before they’re attacked by six **barlgura**. When the barlgura attack, read:
@@ -2104,6 +2215,18 @@ If the players agree to Diegia’s conditions, she beckons for them to follow, g
 > If the players express an interest in learning about the Fanes of Barovia, Diegia informs them that "Elder Burebis" is the keeper of the Fanes' memory. "He is old in years, however," she adds, "and will not see visitors unless he wishes to. If you would like me to, I shall send a messenger to his sanctum to inform him of your interest."
 > 
 > If the players accept Diegia's offer, she promises to send such a messenger to Elder Burebis once she has brought them to her longhouse.
+
+> [!abstract]+ **Spear of the Huntress**
+> If the players present or otherwise display the *Spear of the Huntress*, Diegia is taken aback that the relic has been found after generations of it being missing after it was stolen by Kavan. 
+> 
+> If the players attempt to return the *Spear of the Huntress* to Diega, the following scene would occur, unless the players intervene: 
+> 
+> Diegia lowers her stance and studies the spear closely, her eyes displaying both shock and deep study in equal measure. 
+> 
+> "The Huntresses' spear was stolen from the Fane of the Forest generations ago. Now it returns in the hands of strangers, on this moon, on this night... This is not coincidence. This is not mine to claim, and I suspect not yours to surrender, either."
+> 
+> Diegia rises and says "Elder Burebis is the keeper of the Fanes' memory in Soldav. He is old in years and prefers solitude I will send a messenger to his sanctum and "
+
 ## R5c. Into Soldav
 As the players enter Soldav, read:
 
@@ -2444,7 +2567,34 @@ When the players are ready to depart, Diegia and her family wish them farewell. 
 ## R6a. Sangzor's Test
 Upon departing Soldav, Kasimir can guide the players to the hidden trail that leads from the plateau to the Amber Temple.
 
-This hidden path is largely as described in <span class="citation">Bloodhorn's Charge (p. 160)</span>. However, three miles down the path, the players automatically notice Sangzor on a crag above them. 
+This hidden path is largely as described in <span class="citation">Bloodhorn's Charge (p. 160)</span>. 
+
+```
+Bloodhorn’s Charge
+
+As the characters make their way along Tsolenka Pass, they encounter a beast that the druids and berserkers of Barovia call Sangzor (“Bloodhorn”):
+
+The road ahead is cut out of the mountainside, rising steeply to one side and falling away on the other. Mist and snow greatly reduce visibility, and the howling wind cuts through you like a knife.
+
+If no character has a passive Wisdom (Perception) score of 16 or higher, the party is surprised. Otherwise, read:
+A nine-foot-tall goat stands atop a crag above you, its gray fur blending perfectly with the rock of the mountainside. It lowers its head, and malice glimmers in its eyes.
+
+Sangzor is a giant goat known for its supernatural resilience and evil disposition. Mountain folk have been hunting it for years. Modify its statistics as follows:
+
+    It has an Intelligence of 6 (-2 modifier) and is chaotic evil.
+    It has 33 hit points.
+    It has resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+    Its challenge rating is 1 (200 XP).
+
+The giant goat charges down the mountainside (using its Charge feature) and rams a character. If the attack hits and the target fails its saving throw, it is sent tumbling down the mountainside, falling 100 feet onto a ledge.
+
+The goat flees if it takes 10 damage or more. The mist and snowfall prevent seeing anything more than 60 feet away. Once the goat is out of sight, it disappears through a cleft.
+Development
+
+A character who wears Sangzor’s pelt can command the respect of the berserkers who inhabit Strahd’s domain. They will not attack the character or that character’s companions unless provoked.
+```
+
+However, three miles down the path, the players automatically notice Sangzor on a crag above them. 
 
 Modify Sangzor's stats as follows:
 
@@ -2453,7 +2603,12 @@ Modify Sangzor's stats as follows:
 * It has 136 hit points.
 * Its ***ram*** attack has +6 to hit and deals 19 (3d10 + 3) bludgeoning damage on a hit.  If Sangzor moved at least 20 feet straight toward the target immediately before the  attack, the attack is made with advantage and deals an extra 11 (2d10) bludgeoning damage on a hit, rather than 5 (2d4).
 
-Remove the second sentence from Sangzor's description. After the players have had an opportunity to react to it, read:
+
+<div class="description">
+<p>You travel for approximately three miles. The path is cut out of the mountainside, rising steeply to one side and falling away on the other. Mist and snow greatly reduce visibility, and the howling wind cuts through you like a knife. A nine-foot-tall goat stands atop a crag above you, its gray fur blending perfectly with the rock of the mountainside.</p>
+</div>
+
+ After the players have had an opportunity to react to it, read:
 
 <div class="description">
 <p>The goat regards you with dark, piercing eyes. One by one, it turns its gaze to each of you, carefully evaluating each subject in turn.</p>

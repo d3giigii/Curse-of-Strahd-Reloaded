@@ -1,4 +1,332 @@
+# 7 JUNE 2026
+Resuming 20 Neyavr, afternoon
+* Resumed after combat in the Lecture Hall in the Amber Temple. The man in the hall was a prodigious illusionist, and had the help of a Shield Guardian during the combat, but was defeated nonetheless. 
+* The man dissipated into mist when defeated, and the guardians control amulet was found where he vanished. Unfortunately the construct itself seems to have been destroyed in the combat. 
+* Igor communed with his deity to attempting to divine any new information about the temple or the location of the sunsword within it. He was answered with a sudden urge to peruse two scrolls he had found earlier. 
+* One scroll revealed the existence of a concealed demiplane within one of the sarcophagi in the innermost amber vault. The second scroll described the crystalline heart found in Castle Ravenlofts north tower (The Heart is composed of crystallized blood, possesses extraordinary capacity for storing and conducting magical power, and resonates with the Mists surrounding Barovia—suggesting it may be connected to Strahd’s control over the land.)
+* Thonk touched the western sarcophagus of the inner vault and communed with the vestige of the Vampyr, it apparently being the entity Strahd had communed with himself before his terrible transformation many centuries ago. 
+* Within the Vampyrs consciousness, in a canal of blood filled with the many spectres of those lost to death, Thonk saw a golden light. He dove into the canal of blood and fought off a number of spectres before he laid his hands on the hilt of a platinum sword in a lavender cloth. 
+* When he did so, the party saw Thonks hand sink into the sarcophagus as if it were liquid, and pulled out a the hilt of a broken platinum sword. 
+* As the party conversed about what Thonk experienced the hilt began twitching and lurching violently. A stream of shadow flooded forth from the sapphire embedded in the hilt and gathered into the form a feminine silhuouette: a tall slender woman with long raven-black hair with dusky skin and long, pointed ears. 
+* The woman is the spirit of Patrina Velikovna, the sister of the dusk-elf accompanying you, Kasimir Velikov. 
+* You learned the following from conversation with her
+	* The spirit within the recovered sword hilt is **Patrina Velikovna**, Kasimir’s elder sister. Her soul has been imprisoned within the hilt and its hidden demiplane for nearly four centuries.
+	- Patrina and Kasimir were relatives of the dusk elf prince Erevan Löwenhart. After King Barov conquered their homeland and Strahd later crushed their rebellion, the surviving siblings adopted the name Velikov from the Vistani clan that transported them to Barovia.
+	- Patrina learned of the Amber Temple, became the apprentice of its former master **Exethanter**, and secretly studied forbidden magic. When Exethanter attempted to stop her, she defeated and imprisoned his spirit.
+	- Patrina communed with **Tenebrous**, whose dark gift could transform a sufficiently prepared mortal into a lich.
+	- Patrina originally intended to manipulate the mortal Strahd through his terror of aging and death. She brought him to the Amber Temple and introduced him to Tenebrous, hoping eventually to control Strahd and claim his throne rather than merely kill him.
+	- Strahd rejected Tenebrous’s gift but showed particular interest in the sarcophagus of the **Vampyr**. Soon afterward, his obsession with Tatyana and Sergei’s wedding led him to accept a different dark gift and become a vampire.
+	- After Strahd’s transformation placed him beyond her control, Patrina pursued lichdom herself. The process required both a **phylactery** and a specially brewed **potion of transformation**.
+	- Patrina transformed the broken hilt of King Barov’s _Brightblade_—the weapon now known as the _Sunsword_—into her unfinished phylactery. She concealed it within the demiplane hidden inside the Vampyr’s sarcophagus, surrounding it with an image of death because death was Strahd’s greatest fear.
+	- The _Brightblade_ was originally Prince Erevan’s **Moonblade**, later taken and reforged by the von Zarovich family. Before it was broken, it contained Erevan’s soul.
+	- Patrina murdered eight Barovians to create her potion of transformation. Kasimir discovered her laboratory and killed her before she could drink it, leaving her soul trapped within the unfinished phylactery.
+	- Patrina deliberately lured Kasimir and the party to the Amber Temple under the guise of repentance. She now intends to drain the party’s souls into the sword, restore her body, and complete her transformation into a lich.
+	- Once transformed, Patrina plans to reclaim her spellbook, discover and seize the source of Strahd’s power over Barovia—potentially the power stored within the Heart of Sorrow—and destroy him. She does not intend to liberate Barovia, but to replace Strahd as its ruler and establish the dusk elves as its dominant people.
+- Patrina attempted to persuade Kasmir to join her, but the party was able to convince Kasimir to stay true to his loyalties, and combat began. 
+# 31 MAY 2026
+Resuming 20 Neyavr, afternoon
+* Resumed as the party began exploring the lower eastern portion of the Amber Temple. 
+* Party moved to investigate the non-magical doors in the X32. Lower East Hall. Both dilapidated bed chambers. In one was found a man-shaped construct made of dark wood and riveted iron, and they swiftly exited. 
+* Party destroyed the door to X40. Sealed Treasury where they found several large piles of chunks of amber, and a pile of assorted treasures, but declined to touch anything (golem is still invisible but did not start combat). 
+* Party moved forward through a fissure in the earth to the X41. Amber Vault. They opened the crates but did not find anything inside. They declined to touch any of the amber sarcophagi. 
+* Party moved up the stairs in the X41. Amber Vault to the X30. Preserved Library. They found two secret doors. The secret door to the south led downward and exited behind the statue on the main floor of the temple. The secret door to the west entered a small room with another door, which in turn led to X27. Lich's Lair. 
+* The party entered X27. Lich's Lair and found a book titled "The Incants of Exethanter". It appears to be the spellbook of a relatively powerful mage, and contained instructions for a ritual called the "Rite of Conjured Divinity" (which could be used to contact the remnants of a deity). 
+* The party moved back to the main floor of the temple and took the stairs up to the X6. Southeast Annex. They found a hole in the floor with a body in the room below. They used Drake to explore the Amber Vault below and hoisted the corpse up. It appeared to be one of the missing Mountain Folk, so they returned it to Diona before moving forward. 
+* The party moved through the X6. Southeast Annex to the Upper East Hall, and then the X10. Northeast Annex where they found an Amber Golem primed to attack. The golem was defeated relatively easily. 
+* The party moved back to explore the X9. Lecture Hall attached to the X8. Upper East Hall. Inside they found mists climbing up the stairs toward a lectern, and hiding behind it, a man. He hissed when light was shone upon him and was quite frightened at what may, or may not, lurk further in the temple. When he saw the staff Fel found earlier, he demanded it. When he was denied, he attacked. His eyes blackened into voids, and it was now when they noticed the mists were climbing toward him. The man was a prodigious illusionist, and had the help of a Shield Guardian during the combat, but was defeated nonetheless. 
+# 24 MAY 2026
+Resuming 20 Neyavr, afternoon
+* Resumed mid-combat with the two Slaads that were trapped in the Catacombs of the Amber Temple. Thanks to Thonks Command he was able to slay the creature before it could escape the temple proper, while the rest of the party was able to deal with the larger Blue Slaad. 
+* Afterwards the party decided to explore the western portion of the lower floor of the temple exploring the following areas: 
+	* X5d. Amber Reflections (West)
+		* When the party moved through this area their reflections waved screamed in silence, their message clear nonetheless, escape. 
+	* X36 Lower West Hall
+		* This hall was filled with small statues, several broken, all small animals that a mage may use as a familiar. Igor decided to repair one of them and returned it to its ledge. 
+	* X37. Wizards Bedchamber
+	* X38. Haunted Room
+		* Fel found a poltergeist in this room, throwing objects at any who entered. Before he left, he found a scroll of Wall of Fire.
+	* X33d. Breached Vault
+		* The party found two amber sarcophagi in this room, and likely another, shattered into many pieces. 
+		* Thaedrin and Fel both felt a call to touch the eastern and western sarcophagi respectively. When they did, the room melted away around them and they received different visions, and offers. Both refused.
+	* X21. West Staircase
+		* Party moved up the staircase and discovered the hidden rooms adjacent to the hallway
+	* X19. Potion Storage
+	* X20. Architect's Room
+		* Igor found a model of Castle Ravenloft which he destroyed, and a chest with a false bottom containing a small pouch and two old parchment scrolls, he has so far declined to open any. 
+	* X18. Hallway
+	* X17. Upper West Hall
+		* The party found themselves "face-to-face" with three "amicable" flameskulls, and a charred corpse down the hall. 
+		* Petra, the flameskull wrapped in violet fire seemed quite enamored with Fel...
+		* The corpse was not fresh, and seems to have been there quite a long time. 
+	* X22. Northwest Annex
+		* Igor and Fel found themselves in a lit dining room, the table covered in a magnificent feast that fills the hall with delightful smells. Walking through the room gave them a sense of being watched. They declined to investigate further and moved to leave.
+	* X23. Northwest Balcony
+	* X24. West Shrine
+		* Fel entered this room and India Jones'd a staff reminiscent of a jagged icicle being held by a faceless obsidian statue. 
+	* X5. Temple of Lost Secrets
+		* The party moved back down to the first floor of the temple. 
+	* X39. Plundered Treasury
+		* The party entered this room and found it littered with remains. They swiftly exited.
+	* X5d. Amber Reflections (East)
+		* The party moved through the corridor and found their reflections in the same worrisome state. One of them noticed the figure of a dusky-skinned woman before it vanished along with the others. 
+# 17 MAY 2026
+Resuming 20 Neyavr, morning
+* Resumed with the party speaking with Chief Diega and Oroles in their home in Soldav before setting off toward the Amber Temple. 
+* The party encountered Sangzor the Giant Goat on the way to the temple. The beast scanned each member of the party, and declined to send any to their doom off the cliffside. 
+* The party arrived at the facade of the temple after three hours. 
+* The party discovered a crack in the western end of the facade that allowed you to somewhat see and hear into one of the interior rooms. Inside were two mountain folk in argument. Igor interjected, and after an amount of explanation, one had invited you to speak further inside the temple, with a warning about one of its inhabitants, an elderly man named Heinrich Stoltz. 
+* The party entered the temple and made their way toward the room found earlier, but they were stopped by an eccentric, elderly man claiming to be the temples caretaker who introduced himself as Heinrich Stoltz. 
+* Heinrich was quite interested in the parties reasons for travelling to the Amber Temple, and seemed satisfied with their answers. Heinrich made an offer to the party: they would be allowed to explore the temple, in exchange for a small service, the removal a death slaad he had confined to the temple catacombs. The party accepted this offer, and he told them the password to enter the magically sealed catacomb doors, "Etherna". 
+* After speaking with Heinrich the party met with the Mountain Folk they spoke with earlier, whom they came to know as Diona and Coryllus. The party learned two of their companions have gone missing, a man named Duras and a woman named Meda. The darkness of the temple seemed to have affected Meda moreso than the others in their party. The party offered to help locate them, as the two did not seem to be in any condition to venture further into the temple. 
+* The party made their way down the steps of the temples overlook toward the catacombs as described by Heinrich, and used the password to open the doors without issue. 
+* Inside the party found an injured woman named Lorelei who said she was trapped here by a "demon" disguised as a man. Thonk was suspicious, and when he began casting a spell within eyeshot of Lorelei, she transformed into her true form, a death slaad named "Nardag", who then attacked. 
+* It seems the Death Slaad was not alone and a large Blue Slaad joined the combat as well, entering from the eastern portion of the catacombs. 
+* The Death Slaad attempted to fly out of the temple, but was halted by Thonks command just before it could escape. 
+# 10 MAY 2026
+Resuming 19 Neyavr, morning
+* Resumed mid conversation with the Mountain Folk in the tunnel leading to Soldav on Mt. Ghakis after escaping combat with a horde of demons outside. The party met Chief Diega and her sons Scorlio and Como. 
+* Party was permitted entry to Soldav on the condition they stay their weapons and offend none within it. 
+* Party was escorted to the chiefs longhouse where they met Kaldur (chiefs nephew) and Oroles (chiefs husband). Diega explained the enchantments that protect Soldav from those that would seek its harm. She later sent Kaldur to inform Elder Burebis of the parties interest in meeting him regarding the Spear of the Huntress. 
+* Party was invited to join the chiefs family at the nights celebration, the Night of Clear Skies, and they accepted. 
+* During the Night of Clear Skies in Soldav, Oroles—acting in his ceremonial role as the tribe’s “Keeper of Voices”—performs a formal oral recitation of the Tauta peoples’ foundational myth.
+	* Three beings known as the Rozana (the Ladies Three) guided the Tauta (Mountain Folk) to Girvisa (Barovia). They were the Huntress (hunting and warfare), the Weaver (crafts and domestic arts), and the Seeker (wisdom and divination). 
+	* A primordial darkness called the Devourer emerged from the mountains as a tide of living fog and hunger, blotting out the skies and threatening all life
+	* The Ladies Three united to defeat the Devourer, its corpse now thought to be the wall of fog near Yester Hill (where Strahd bid them enter and each received visions earlier in the campaign). 
+* After more revelry Scorlio, angered by the parties words and actions, challenged them to a formal boasting match in the Tauta tradition. The party was victorious and received his wager, a Horn of Silent Alarm, before he stormed off into the night. 
+* As the party wound down, a raven formed of smoke fluttered in, and in a booming voice, directed Diega to send the party to him. Como escorted them to the entrance to his sanctum. 
+* Upon entering the players found a large cavern, moderate in climate, built as a shrine of the Rozana, with Burebis, a giant, whose body is woven into the roots of a tree set in the wall. 
+* Burebis refused to enter conversation with the party until they presented the secrets of blood (Tome of Strahd) and the Sun's Sigil (Holy Symbol of Ravenkind). Afterwards the party learned the following: 
+	* Burebis is a Storm Giant who came to Barovia nearly 1000 years ago to challenge the beings of fey divinity known as the Rozana. He failed, and afterward, studied with the Seeker in the art of divination. 
+	* With the each of the ladies holy places (the fanes) desecrated by Kavan, King Dostron, and Strahd, they are reduced to little more than spirit, unable to take action. 
+	* Stahds profane magic corrupts the three fanes, with which he channels the power of, and thus controls the lands themselves. Burebis suspects that with his soul tethered to land, Strahd cannot be meaningfully killed. 
+	* Burebis is not certain if the Fanes, or the Spear of the Huntress, can be reconsecrated and Strahds power severed, and believes only the Ladies Three may have such knowledge. 
+	* He is loath to seek knowledge from the Amber Temple, but believes the knowledge to contact the Rozana may be held in its hidden tomes. 
+* Burebis requested the party return to him after exploring the Amber Temple. They agreed and Burebis infused the parties 'Keeper's Whistle' with the 'Charm of the Seeker's Familiar' such that when it is blown beneath open skies, his teachers familiar shall come to defend them, but this will only work once. 
+* Before they departed, Burebis gave a final warning to the party, that the Amber Temple is not to be trifled with, and to only peer into darkness no longer than necessary lest it find a foothold in their soul and drag them into amber shadows. 
+* The party returned to the chiefs longhouse and took a Long Rest. 
+* In the morning she and Oroles shared the following info with the party: 
+	* The Amber Temple is an ancient, cursed sanctuary built by mysterious mages to imprison terrible entities within amber crypts. 
+	* Countless seekers entered for forbidden power or knowledge. Most were corrupted or killed. The temple is still defended by undead, constructs, and other unnatural forces. 
+	* A malignant miasma fills its halls and drains the vitality of those attempting to rest within it. 
+	* The only path to the temple begins on the southwestern edge of the plateau outside Soldav. 
+	* The mountain pass is guarded by Sangzor, a giant goat, said to sense evil and weakness in travelers hearts, and casts the unworthy from the cliffs. 
+	* Diega and Oroles' daughter, Diona is undertaking her rite of passage as the incumbent chief where she must endure six days and six nights within the Amber Temple with three companions before returning to Soldav. She wishes the party give Diona her regards if they meet. 
+# 3 MAY 2026
+Resuming 19 Neyavr, morning
+* Resumed as an avalanche began to bear down towards the party along the cliffside. 
+* Party opted to use their superior mobility to escape the avalanche zone instead of seeking shelter in a nearby cave. 
+* Party continued along the cliffside trail until it seemingly terminated on a snowy plateau with several interesting features
+	* Frozen stream fed by twin frozen waterfalls
+	* Ruins of some ancient structure
+	* Shrine built from the stone of the mountainside with an altar, and two walls depicting a sigil of the morninglord, and various animal motifs set into stone on the wall. 
+* Party found that the stones bearing animal motifs acted as some form of "doorbell" system. 
+* While they attempted to figure it out, they were attacked by a group of Balgura, and two huge Shoosuva. 
+* During the combat the locked passageway that was the wall set by animal motifs was opened and a contingent of barbarous looking fellows poured out, urging you retreat into the tunnel whilst they held back the demons. The party found no reason to decline this offer, and they and their saviors managed to close the door on the remaining demons. 
+* The party learned the names of two of the men in this group, Scorlio (with a scar on his face and suspicious of the party) and his brother Como, when the former pinned Thonk to the wall as he interrogated them. The chief of the village, a large woman named Diegia broke the tension, introduced herself and her sons, and permitted the party entry to Soldav on the following conditions: 1) They keep their weapons arcane implements sheathed and offer no violence to any within Soldav, and 2) the comport themselves with honor, and offend none who greet them with grace and hospitality. 
+# 26 APR 2026
+Resuming 19 Neyavr, morning
+* Resumed after Strahd absconded with Ezmerelda's corpse. 
+* Party made their way from the Mountain Folk Cave to the Tsolenka Pass Gatehouse. The ground was heavy with snow which made travel difficult, and the journey took one hour and fifty minutes over two and three-quarter miles. 
+* The party was met by the a wall with a curtain of green flame behind an iron portcullis, that spanned the length of the road, guarding the guard tower. The portcullis raised when Fel moved near to it, and the petrified Vrocks that adorned the top of the walls animated and attacked when he moved past the curtain of green flame. 
+* The party dealt with the Vrocks in swift fashion and investigated the guard tower itself, but nothing of note seemed present. 
+* The party made their way across the Tsolenka Pass bridge spanning the Luna River. Fifty minutes pass, and with the bridge below and behind in sight, the party spotted a charcoal-colored horse and black-cloaked rider crossing it in their direction. The rider seemed to notice the party noticing them, and fled when Igor attempted to send a message via Edgar. 
+* Moving forward the road continued to climb until it reached a narrow crossroads with a northern and southern branch. At this spot the party noticed a gray-clothed figure camouflaged against the mountain, and the figure in turn retreated from sight behind the cliffs. 
+* Kasamir informed the party the northern branch leads toward their destination, according to his dreams. The party followed. 
+* The party continued along the northern branch for 90 minutes over five miles as the path doubled back over itself. As the party took notice of a cave one-hundred feet ahead of them, the wind suddenly shifted and the mountain began to groan and crash; an avalanche. 
+# 12 APR 2026
+Resuming 18 Neyavr, morning
+* Resumed mid-combat at the monument with the remaining Snow Maidens and their Ice Peryton mounts.
+* Defeated the remaining enemies. 
+* Continued travelling along the road into Tsolenka Pass proper as a blizzard began rolling in. After an hour of travel (and little more than a mile travelled) Kasimir suggested finding shelter and waiting out the storm. 
+* Party discovered a well-hidden spacious cave with remnants of an old camp. Kasimir was able to determine the gear left behind was of mountain folk make. Near the entrance was carved the symbol of the Ladies Three (a three pointed star). 
+* While waiting out the storm Ireena struck up some conversation, asking everyone their plans once Strahd is dead. Not long after she and Ezmerelda shared a blanket to stave off the cold. Ireena seemed quite smitten. 
+* Roughly an hour after the party began their Long Rest Strahd arrived. Strahd instructed the party to depart the burrow so that they may "speak in more civilized surroundings". 
+* The parties resolve to defy Strahd did not waiver from the previous night. Strahd attempted to force the party from the cave by trapping them inside, which failed, and Strahd departed letting the party know he would return in the morning to continue their conversation more amicably. 
+* The party finished their Long Rest. In the morning they continued to prove themselves defiant. Combat ensued and Ezmerelda was killed in the struggle, and her body taken by Strahd. He departed with a warning "I shall return again this eve. I trust you will be better prepared to play upon my arrival."
+# 29 MAR 2026
+Resuming 18 Neyavr, morning
+* Resumed during combat with the Druids at the Raven River Crossroads. 
+* After defeating the druids the party travelled along the southern path from the Raven River Crossroads toward the Tsolenka Pass (to the Monument).  
+* After travelling for around 90 minutes the party found themselves in a snow field met by a dilapidated avian statue. The party took some time to repair it, and were soon after attacked by a group of Snow Maidens and several Ice Peryton. 
+* After combat broke out the statues eyes began to glow and a wall of wind snaked it way across the battlefield, injuring and blocking much of the enemy forces from advancing. Those blocked by the wall began retreating. 
+* Paused mid-combat with the remaining enemies. 
+# 22 MAR 2026
+Resuming 18 Neyavr, morning
+* Party continued fighting Strahd after Igor refused to play his game. 
+* Strahd made good on his promise to kill Igor, warning them he will returning the following night, and his hopes they shall be better prepared to play his game when he does. 
+* Party made use of one of Ithuriel's Feathers to revive Igor before finishing their Long Rest into 18 Neyavr. 
+* The party set off in the morning with Kasimir Mt. Ghakis. After swearing to secrecy, Kasimir told the party about his and his sisters past, namely, her fall to dark magic, his killing of her, his lie, the genocide that followed, his recent dreams, and the temple as his current hope and obsession. 
+* The party reached the Raven River Crossroads and were ambushed by the forest folk (fast travel speed = 45 minutes). 
+# 16 MAR 2026
+Resuming 17 Neyavr, night
+* Strahd told the party the rules of the game. 
+* Igor antagonized Strahd which led to combat. 
+* Paused during combat with Strahd. 
+# 8 MAR 2026
+Resuming 16 Neyavr, night
+* Party continued fighting Kiril in his Mutant form. 
+* Party defeated Kiril with some difficulty. 
+* Emil appeared to assure the other members of the pack and seems to have assumed leadership. 
+* Emil offered the party to take the remainder of the stolen treasures given to the Shrine of Mother Night in the Werewolf Den as a reward for their help with Kiril. 
+* Party travelled back to Vallaki to rest for the evening and took a Long Rest into 17 Neyavr. 
+* Party travelled to the Vallakian Vistani Camp to meet with their lead on reaching the Amber Temple: the Dusk Elf Kasimir Velikov. 
+* Party spoke met with Luvash to trade goods before meeting with Kasimir in his home nearby. 
+* Kasimir was initially reluctant to share his knowledge of the Amber Temple and attempted to feign ignorance, but the party was able to see through his lies and pierce through his unwillingness. 
+* Kasimir shared the following: 
+	* He has been searching for the Amber Temple for the past several weeks, in the hopes of finding therein a weapon capable of defeating Strahd. (He doesn’t know what the weapon is, but he knows that it was hidden in the Amber Temple.)
+	* He recently visited Argynvostholt in the hopes of obtaining a map to the Amber Temple’s location, which he successfully recovered from an old map case long-since forgotten amidst the ruins. (He has since committed the map to memory and destroyed it, for fear of allowing any others to find the Temple.)
+	* Since obtaining the map, he has attempted the trek up Mt. Ghakis twice. The first time, a wayward blizzard forced him to turn back. The second time, a pair of demonic gargoyles at the Tsolenka Pass gatehouse drove him to crash amidst a snow bluff in an icy chasm. (This crash occurred two days before the players encountered Kasimir in [[Arc E - The Missing Vistana]].)
+	* The weapon he is searching for was hidden away within a sarcophagus of amber, in an amber vault located deep within the heart of the temple. He does not know what the weapon is or its appearance, but knows that it is deadly to Strahd. 
+* DM ONLY NOTE: Kasimir did not tell how he learned of the weapon or who hid it (no one asked). 
+* The party and Kasimir agreed to travel to the Amber Temple together at first light on 18 Neyavr. Kasimir advised the party to prepare for a multi-day cold-weather journey. 
+* On the way to Vallaki, the party was stopped by the drunken former Burgormaster of Vallaki, Baron Vargas Vallakovich, with several pikemen in tow. Vargas attempted to intimidate the party into surrender, unsuccessfully. As this was happening a black cloud quickly formed overhead. 
+* The black cloud turned out to be a swarm of thousands of bats which tore the Baron and his guard to shreds, and Strahd revealed himself from the swarm...
+* Strahd felt it important to re-introduce himself to the party, and was queried them for reasons as to why he should not end their lives on the spot for their crimes in Castle Ravenloft. After several convincing arguments Strahd departed, noting that he requires new servants to replenish those lost in the parties raid, and he will be visiting them nightly to see which among them is worthy of a place in his court, those worthy of a place in his legions, and those worthy of a place among the worms writhing in the dirt. 
+* The party made their way to the Arasek Stockyard in Vallaki to provision themselves. 
+* The party opted to camp just outside the Vallakian Vistani Camp to be closer to Kasimir's residence in the morning. 
+* As promised, Strahd returned that night, and asked permission for entry into Igor's Tiny Hut. The party initially declined, but Strahd appeared to be preparing some sort of spell alluding to his plan to harm them or the nearby Vistani Camp. The party opted to exit the hut and Strahd laid his plan bare, he wishes to play a game...
+* Paused session. 
+# 1 MAR 2026
+Resuming 16 Neyavr, night
 
+* Party resumed mid-conversation with Argynvost and Sir Godfrey, now freed from his oath and binding to Commander Vladimir Horngaard. 
+* The Beacon of Argynvost was lit, proving hope and protection to those who stand against Strahd in the Barovian valley. 
+* Argynvosts' spirit is the fuel for the beacon, and will run out in a weeks time, perhaps more...
+* Sir Godfrey gave you a lead for locating the amber temple: the dusk elf Kasimir, who aided you earlier in your search for the Vistana girl Arabelle. Godfrey believes the elf has re-discovered its location after sifting through the ruins of Argynvostholt a few weeks ago.
+* As you made to leave the manor, Emil waiting outside, alerted you the pack would be upon the group within the hour. You choose to stand your current ground, and the pack came.
+* The Black Terror, the beast that stole Ezmerelda's leg, Kiril, leads the pack. With your backing, Emil has challenged 10 foot tall lycanthrope for leadership. 
+* He moved furiously about you all in combat, and seems to have particularly potent blood, whose roars seem to cause bloodlust in those he has bitten. 
+* After taking a beating the beast ripped out his heart and consumed it, growing huge in size. 
+# 15 FEB 2026
+Resuming 16 Neyavr, morning. 
+* Party resumed after conversations with Ithuriel, Vasilka, the Belviews, and the Dmitri Krezkov. 
+* Party was called to the Shrine of the White Sun by St. Markovia, where she gave them four Water's of the White Sun
+* Party made their way toward Argynvostholt. They were met by Emil Toranescu partway, warning them the werewolf pack would be on them tonight. 
+* Party made it to Argynvostholt to return Argynvosts' skull to his mausoleum, where they encountered Commander Horngaard waiting for them. 
+* The party tried to sneak by, but he had some form of magical trap laid out, causing an explosion of black flame that threw Thonk from the mausoleum and formed a wall surrounding the graveyard. 
+* The party engaged Horngaard in combat with help from their ghostly companion Zorya. 
+* Eventually someone was able to make it into the mausoleum and place the skull, and the spirit of Argynvost appeared above the graveyard. Seeing his lord, commander Horngaard and the revenants immediately fell to their knees. 
+* With encouragement from his lord and the party, the hunger for revenge that kept Horngaard trapped in undeath was replaced with hope. He and the other revenants bound to his service were released and began turning to dust. 
+* The spirit of Sir Godfrey appeared before the party as well, greeting them with great gratitude.  
+* Info given by Argynvost
+	* Although his spirit lay dormant for centuries, he was awoken several weeks ago by the sound of distant dragonsong—a harmony from the planes beyond—that Barovia had not heard since the descent of the Mists. “A grand alignment approaches us," he murmurs. “I know not what it portends, but the great veils are shifting."
+	* Info about the Founding Era and the Birth of Barovia
+The Rise of the von Zarovich Line
+```
+Long before this valley bore its present name, the House von Zarovich rose in distant lands.
+They were conquerors even then.
+King Barov united fractured city-states into a kingdom called Zarovia. It prospered—then fell. His line was driven into exile.
+But exile breeds hunger.
+A century later, Barov’s descendant reclaimed that dream with steel and coin. With the blessing of Saint Andral, his wars became holy. The dusk elves refused him—and were broken for it.
+Among his soldiers rose a son: Strahd.
+Even as a youth, he was iron-willed. Tireless. Ambitious. War was his tutor, and conquest his inheritance.
+```
+
+The Valley Before Strahd
+```
+Far from those wars, this valley was quiet.
+Saint Markovia built her abbey upon Mount Baratok, seeking peace from the bloodshed of men. Refugees gathered. A hamlet formed. Trade began.
+It was then that I came.
+I had sensed movement in the ancient magics of the Amber Temple. The evil sealed within must never be freed. So I founded the Order of the Silver Dragon—not merely to defend the innocent, but to guard that darkness from the greedy and the desperate.
+We built Argynvostholt. We stood watch.
+```
+
+The Growth of the Valley
+
+```
+As settlement took root, prosperity followed.
+A winery rose along the western woods. It brought joy to a land that had known little of it.
+I studied its founders from afar.
+They claimed a wandering wizard had planted the first vines. I did not believe them.
+The land answered their hands too readily. The soil remembered them.
+I came to suspect that those vintners bore the blood—or at least the secrets—of the valley’s First Folk. That their art was older than their name.
+I did not press the matter.
+Not all hidden things are meant to be unearthed.
+```
+
+Strahd’s Ascension
+```
+When King Barov died, Strahd inherited not only lands—but enemies.
+Where others saw threats, he saw opportunity.
+He crushed rebellion. He declared war upon all who had ever slighted him. His armies moved like a storm across the world.
+At last, his ambition turned toward this valley—the final refuge of those who resisted him.
+```
+
+The War Against the Order
+```
+We fought him.
+For a time, we held him.
+Vladimir Horngaard proved a brave and capable commander. My knights stood against armies that outnumbered them tenfold.
+But Strahd was relentless.
+When winter came, we retreated here—hoping the mountains would shield us.
+They did not.
+```
+
+The Battle of the Luna River
+```
+His forces breached the valley and met us beneath these walls.
+The marsh ran red.
+Vladimir fell. Godfrey fell. Nearly all my knights fell.
+I retreated to my hall and made my last stand within it.
+The western wing burned. The roof split open to the sky.
+And there… I died.
+```
+
+The Naming of Barovia
+```
+When the slaughter ended, Strahd had no rivals left.
+He looked upon this valley—and chose it.
+He named it Barovia, not for his father, but for the ancient patriarch of his line.
+A conqueror naming his final prize.
+And here he remained.
+```
+
+The Warning
+```
+Know this: Strahd was not forged by darkness.
+He chose it.
+Even before the pact… even before undeath… conquest was his nature.
+And ambition without limit is a blade that turns upon the world.
+```
+* Info from Sir Godfrey about the Amber Temple
+	* Several weeks ago, a dusk elf named Kasimir Velikov visited the manor and spoke with Godfrey, seeking information regarding the history, location, and contents of the Amber Temple. 
+	* Godfrey warned him to avoid the darkness that lay within the temple, but believes that Kasimir may have gleaned some information nonetheless by canvassing the ruins of Argynvostholt.
+	* Godfrey did not ask Kasimir’s purpose in seeking out the Temple, but does not believe that he bore any ill intent. “Even so, I knew all too well of the allure the Temple poses," he says. “I could sense the magic, intelligence, and desperation within him. Such individuals are the Temple’s most vulnerable prey."
+	* The Amber Temple is located near the peak of Mt. Ghakis, at the end of a trail now long-lost to the ages. “I sense the elf has rediscovered it, however," Godfrey says solemnly. “Seek him out, and he may guide you to the place you seek."
+* Argynvost offered to instill one of the parties weapons with the "flame of a silver dragon", given to Fel's whip. 
+* Some number of the party chose to take the Oath of the Silver Dragon. (Thonk + Fel)
+* Argynvost told the party his soul will be consumed to light the beacon, and will last approximately a half cycle of the moon (~7 days), maybe more. 
+# 8 FEB 2026
+Resuming 16 Neyavr, morning
+* Party resumed mid-combat with the Abbot. 
+* Combatted the Abbots angelic form until it turned into a huge, horrifying creature of multiple parts able to spew both radiance and rot intertwined. Eventually the party was able to defeat the creature. 
+* Used the Icon of Dawn's Grace to enter some form of demiplane within the Abbots soul. 
+* Attempted to persuade the angel that he is worth redemption. 
+* Saw the whispering shadows around the trapped angel. 
+* Invoked the spirit of St. Markovia to help convince the angel. 
+* The party and Markovia were able to help the angel see his purpose need not stay betrayed, and left the demiplane. 
+* The Abbots new mortal guise is a youth no more than twenty, and wishes to be called Ithuriel. 
+* Ithuriel was deeply grateful and apologetic to the party and those he had harmed. 
+* Party was leaving the abbey after receiving 
+	* 2x Wings of Flying
+	* 3x Ithuriel's Feather
+# 1 FEB 2026
+Resuming 15 Neyavr, night
+* Party resumed just after Thaedrin pushed Igor through the teleportation brazier in Castle Ravenloft during their combat with Ludmilla. 
+* Ludmilla followed the party to Krezk where they finished her off. 
+* Party met with Emil and the Krezkov family and helped ease the tension between them. 
+* Party took Emil to meet Zuleika outside Krezk, and their oaths were broken. Assuming the party is in the western portion of the valley, Emil will attempt to warn them of danger imposed by the pack. 
+* Party long-rested at the Krezkovs. Awoke on 16 Neyavr. 
+* The Krezkovs found one of the Abbots feathers at their stoop, signaling that he intends to collect Anya's heart today. 
+* Party made their way to the abbey to confront the Abbot. 
+* Party found the Abbot scolding Vasilka in the sanitarium. The party presented the Icon of Dawn's Grace, but the Abbot told them to cast it aside. Vasilka interposed herself between the Abbot and party before violence struck, but the Abbot seemed to have no issue punishing this transgression with steel. 
+* Combat with the Abbot began. 
+# 25 JAN 2026
+Resuming 15 Neyavr, night
+* Party resumed mid-combat with Rahadin. 
+* Party finished combat with Rahadin. Thaedrin should have had the killing blow, but Rahadin seemed to suffer an internal injury instead, and activated the Amulet of Ravenloft "raising the alarm" and allowing him to move through the walls of the castle uncontested. 
+* Party decided to escape via the Brazier Room as the catacombs filled with undead. 
+* Party got to the Brazier Room slightly after Ludmilla. She attempted to prevent them from leaving using Darkness and two Gargoyles, but the party was able to escape to Krezk in spite of her magics. 
 # 11 JAN 2026
 Resuming 15 Neyavr, night
 * Party continued exploring the dungeons of Castle Ravenloft with their newfound companion Thaedrin. 

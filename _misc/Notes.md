@@ -3,16 +3,6 @@
 
 * Retrieve the Clockwork Man in Castle Ravenloft for Blinsky. 
 	* Reward: Piccolo the monkey. 
-* Retrieve the Huntresses' Spear in King Dostrons' tomb in Castle Ravenloft. 
-	* Reward: Entry to Soldav, necessary to get to the Amber Temple
-* Retrieve the Icon of Dawn's Grace from Castle Ravenloft. 
-	* Reward: Ability to cleanse the Abbot of his madness. 
-* Deliver news of Cyrus Belview to his family. 
-	* Reward: ???
-* Rescue Emil Toranescu from Castle Ravenloft. 
-	* Reward: Break Zuleika's oath taken in exchange for the Symbol of Ravenkind. 
-* Return Argynvosts' skull from Castle Ravenloft to his tomb in Argynvostholt. 
-	* Reward: Ability to light the beacon of Agrynvostholt. Additional knowledge of the Amber Temple.  
 * Find the prophesized items foretold by Madam Eva. 
 	* Find the Tome of Strahd: DONE. 
 	* Find their foretold ally against Strahd: DONE.  
@@ -20,27 +10,35 @@
 	* Find the Sunsword. 
 * Defeat Strahd von Zarovich. 
 ## Completed
+* Defeat Kiril Stoyanovich
+* Light the beacon of Argynvostholt
+* Redeem the Abbot
+* Defeat the Abbot
+* Give news about *elder belview in ravenloft* to Otto/Zygfeek/Clovin Belview
+* Rescue Gertruda from Castle Ravenloft. 
+* Rescue Emil Toranescu from Castle Ravenloft. 
+* Retrieve the Icon of Dawn's Grace from Castle Ravenloft. 
+* Retrieve the Spear of the Huntress from Castle Ravenloft
+* Attend dinner with Strahd. 
+* Rescue Ilya Krezkov from the Werewolf Den. 
+* Meet the Abbot at St. Markovia's 
+* Travelled to Krezk. 
+* Escaped the Whispering Wall. 
+	* Anastrasya fled after the battle. 
+* Defeated the druids of Yester Hill. 
+* Cleared the Wizard of Wines of druids. 
+* Returned Stella Wachters' soul to her body. 
+* Defeated the hags of Old Bonegrinder. 
+* Deposed Baron Vargas Vallakovich for Lady Wachter to become Burgormaster. 
+* Dealt with Izek Strazni. 
+* Found Arabelle the missing Vistana. 
+	* Volenta fled after the battle. 
+* Return the bones of St. Andral
+* Escort Ireena to St. Andral's in Vallaki
+* Receive fortune from Madam Eva
+* Defend the Village of Barovia. 
 * Survive Death House
 	* Did not lay Walter to rest. 
-* Defend the Village of Barovia. 
-* Receive fortune from Madam Eva
-* Escort Ireena to St. Andral's in Vallaki
-* Return the bones of St. Andral
-	* Volenta fled after the battle. 
-* Found Arabelle the missing Vistana. 
-* Dealt with Izek Strazni. 
-* Deposed Baron Vargas Vallakovich for Lady Wachter to become Burgormaster. 
-* Defeated the hags of Old Bonegrinder. 
-* Returned Stella Wachters' soul to her body. 
-* Cleared the Wizard of Wines of druids. 
-* Defeated the druids of Yester Hill. 
-	* Anastrasya fled after the battle. 
-* Escaped the Whispering Wall. 
-* Travelled to Krezk. 
-* Meet the Abbot at St. Markovia's 
-* Rescue Ilya Krezkov from the Werewolf Den. 
-* Attend dinner with Strahd. 
-* Rescue Gertruda from Castle Ravenloft. 
 # Fortune Reading
 Madam Eva's reading foretold 5 things for the party. 
 1. Knowledge of the ancient will help them understand their enemy - "I see the ancient foe of an old and noble house. The lost soul will lead you to him."
